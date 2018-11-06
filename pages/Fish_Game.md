@@ -15,7 +15,7 @@ created in the variables block. Once the variable is created you can set
 the value, change the value etc. Click on make a variable and then put
 score in the variable name.
 
-![../files/variables.png](../files/variables.png "../files/variables.png")
+![variables.png](../files/img/variables.png "variables.png")
 
 -----
 
@@ -24,12 +24,12 @@ score in the variable name.
 We have 2 backgrounds - the first is the standard aquarium and the
 second is a copy with 'Game Over' text.
 
-![../files/fishbackground.png](../files/fishbackground.png "../files/fishbackground.png")
+![fishbackground.png](../files/img/fishbackground.png "fishbackground.png")
 
 **Script for background**
 
-![../files/fishbackgroundscript.png](../files/fishbackgroundscript.png
-"../files/fishbackgroundscript.png")
+![fishbackgroundscript.png](../files/img/fishbackgroundscript.png
+"fishbackgroundscript.png")
 
 -----
 
@@ -38,11 +38,11 @@ second is a copy with 'Game Over' text.
 The shark has 2 costumes to make it look like he is opening and closing
 his mouth.
 
-![../files/sharkcostume.png](../files/sharkcostume.png "../files/sharkcostume.png")
+![sharkcostume.png](../files/img/sharkcostume.png "sharkcostume.png")
 
 **Script for Shark**
 
-![../files/shark.png](../files/shark.png "../files/shark.png")
+![shark.png](../files/img/shark.png "shark.png")
 
 -----
 
@@ -53,8 +53,8 @@ his mouth. He moves randomly which is achieved by the 'turn pick random
 ... degrees'. the 'go to x pick random ... y pick random ...' makes him
 reappear in a different part of the screen.
 
-![../files/fishcostume.png](../files/fishcostume.png "../files/fishcostume.png")
+![fishcostume.png](../files/img/fishcostume.png "fishcostume.png")
 
 '''Script for fish '''
 
-![../files/fish.png](../files/fish.png "../files/fish.png")
+![fish.png](../files/img/fish.png "fish.png")

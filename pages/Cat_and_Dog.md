@@ -15,7 +15,7 @@ sprite and then import another costume.
 
 ''' Costumes for Dog '''
 
-![../files/Dogcostume.png](../files/Dogcostume.png "../files/Dogcostume.png")
+![Dogcostume.png](../files/img/Dogcostume.png "Dogcostume.png")
 
 -----
 
@@ -26,13 +26,13 @@ Background tab. From here you can either import a backfround form what
 is available or again you can edit the current plain background and
 create your own.
 
-![../files/background.png](../files/background.png "../files/background.png")
+![background.png](../files/img/background.png "background.png")
 
 -----
 
 **Script for cat**
 
-![../files/Cat.gif](../files/Cat.gif "../files/Cat.gif")
+![Cat.gif](../files/img/Cat.gif "Cat.gif")
 
 -----
 
@@ -41,10 +41,10 @@ create your own.
 The 'if on edge bounce' is used to get the dog to turn when he gets to
 the end of the screen.
 
-![../files/Dog.png](../files/Dog.png "../files/Dog.png")
+![Dog.png](../files/img/Dog.png "Dog.png")
 
 -----
 
 When the project is run it will look like this
 
-![../files/stage.png](../files/stage.png "../files/stage.png")
+![stage.png](../files/img/stage.png "stage.png")

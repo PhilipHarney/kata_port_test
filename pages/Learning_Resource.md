@@ -3,18 +3,18 @@
   - 
     
       -   
-        ![Japanese\_flag\_new.png](../files/Japanese_flag_new.png
-        "../files/Japanese_flag_new.png")
-        ![french\_flag\_new.png](../files/french_flag_new.png
-        "../files/french_flag_new.png")
-        ![dutch\_flag\_new.png](../files/dutch_flag_new.png "../files/dutch_flag_new.png")
-        ![spanish\_flag\_new.png](../files/spanish_flag_new.png
-        "../files/spanish_flag_new.png")
-        ![italian\_flag\_new.png](../files/italian_flag_new.png
-        "../files/italian_flag_new.png") ![german\_flag.png](../files/german_flag.png
-        "../files/german_flag.png") ![../files/Pllarge.gif](../files/Pllarge.gif "../files/Pllarge.gif")
-        ![Flag\_of\_Greece.svg.png](../files/Flag_of_Greece.svg.png
-        "../files/Flag_of_Greece.svg.png")
+        ![Japanese\_flag\_new.png](../files/img/Japanese_flag_new.png
+        "Japanese_flag_new.png")
+        ![french\_flag\_new.png](../files/img/french_flag_new.png
+        "french_flag_new.png")
+        ![dutch\_flag\_new.png](../files/img/dutch_flag_new.png "dutch_flag_new.png")
+        ![spanish\_flag\_new.png](../files/img/spanish_flag_new.png
+        "spanish_flag_new.png")
+        ![italian\_flag\_new.png](../files/img/italian_flag_new.png
+        "italian_flag_new.png") ![german\_flag.png](../files/img/german_flag.png
+        "german_flag.png") ![Pllarge.gif](../files/img/Pllarge.gif "Pllarge.gif")
+        ![Flag\_of\_Greece.svg.png](../files/img/Flag_of_Greece.svg.png
+        "Flag_of_Greece.svg.png")
 
   
 
@@ -22,8 +22,8 @@
 
 ### Recommended Resources
 
-![Dojo\_Promo\_Materials.png](../files/Dojo_Promo_Materials.png
-"../files/Dojo_Promo_Materials.png") [Recommended Resources](Learning_Paths.md)
+![Dojo\_Promo\_Materials.png](../files/img/Dojo_Promo_Materials.png
+"Dojo_Promo_Materials.png") [Recommended Resources](Learning_Paths.md)
 
   - 
     
@@ -42,7 +42,7 @@ Community.
 
 ### Dojo Sushi
 
-![../files/sushiiicon2.png](../files/sushiiicon2.png "../files/sushiiicon2.png")
+![sushiiicon2.png](../files/img/sushiiicon2.png "sushiiicon2.png")
 [Sushi](Sushi.md) Dojo Sushi is a
 method of communicating programming concepts in easy-to-digest,
 bite-sited chunks (hence Sushi). Dojo Sushi is delivered on double-sided
@@ -55,7 +55,7 @@ concept.
 
 ### Dojo Tutorials
 
-![ link=Tutorials|left|100px](../files/gradicon2.png
+![ link=Tutorials|left|100px](../files/img/gradicon2.png
 " link=Tutorials|left|100px") [Dojo Tutorials](Tutorials.md)
 
   - 
@@ -73,7 +73,7 @@ Community\!
 
 ### Partner Resources
 
-![ link=Partner Resources|left|100px](../files/Alliancesicon2.png
+![ link=Partner Resources|left|100px](../files/img/Alliancesicon2.png
 " link=Partner Resources|left|100px") [Partner Resources](Partner_Resources.md)
 
   - 
@@ -90,7 +90,7 @@ partners\!
 
 ### Alliance Resources
 
-![../files/Sponsoricon.png](../files/Sponsoricon.png "../files/Sponsoricon.png") [Alliance
+![Sponsoricon.png](../files/img/Sponsoricon.png "Sponsoricon.png") [Alliance
 Resources](Alliance_Resources.md)
 
   - 
@@ -108,7 +108,7 @@ time\!
 
 ### Programming Languages
 
-![../files/proglang-icon3.png](../files/proglang-icon3.png "../files/proglang-icon3.png")
+![proglang-icon3.png](../files/img/proglang-icon3.png "proglang-icon3.png")
 [Programming Languages](Programming_Languages.md)
 
   - 
@@ -125,7 +125,7 @@ more\!
 
 ### The Hardware Laboratory
 
-![../files/labicon2.png](../files/labicon2.png "../files/labicon2.png") [Laboratory](The_Hardware_Laboratory.md)
+![labicon2.png](../files/img/labicon2.png "labicon2.png") [Laboratory](The_Hardware_Laboratory.md)
 
   - 
     
@@ -141,7 +141,7 @@ printing\!
 
 ### The Studio
 
-![a\_studioicon.png](../files/a_studioicon.png "../files/a_studioicon.png")
+![a\_studioicon.png](../files/img/a_studioicon.png "a_studioicon.png")
 [Studio](The_Studio.md)
 
   - 
@@ -158,7 +158,7 @@ tools\!
 
 ### GitHub
 
-![../files/Gitttticon.png](../files/Gitttticon.png "../files/Gitttticon.png") [GitHub](GitHub.md)
+![Gitttticon.png](../files/img/Gitttticon.png "Gitttticon.png") [GitHub](GitHub.md)
 
   - 
     
@@ -176,7 +176,7 @@ tools\!
 
 ### E-Books
 
-![../files/anebookicon2.png](../files/anebookicon2.png "../files/anebookicon2.png")
+![anebookicon2.png](../files/img/anebookicon2.png "anebookicon2.png")
 [E-Books](E-Books.md)
 
   - 

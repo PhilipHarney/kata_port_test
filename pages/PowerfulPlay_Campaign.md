@@ -27,11 +27,11 @@ below) via their social networks and within their organisations.
   - 
     
       -   
-        ![\#powerfulplay](../files/CoderDojo_superpower_girl1.jpg
+        ![\#powerfulplay](../files/img/CoderDojo_superpower_girl1.jpg
         "#powerfulplay")
-        ![\#powerfulplay](../files/CoderDojo_superpower_girl2a.jpg
+        ![\#powerfulplay](../files/img/CoderDojo_superpower_girl2a.jpg
         "#powerfulplay")
-        ![\#powerfulplay](../files/CoderDojo_superpower_mentor.jpg
+        ![\#powerfulplay](../files/img/CoderDojo_superpower_mentor.jpg
         "#powerfulplay")
-        ![\#powerfulplay](../files/CoderDojo_superpower_teenager.jpg
+        ![\#powerfulplay](../files/img/CoderDojo_superpower_teenager.jpg
         "#powerfulplay")

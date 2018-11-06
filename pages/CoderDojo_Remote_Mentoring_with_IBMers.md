@@ -253,12 +253,12 @@ e.g. email address and password)
 "Apps" drop down menu on the top of the page and click on "Meetings
 (new)". See image below:
 
-![../files/Pic49326.gif](../files/Pic49326.gif "../files/Pic49326.gif")
+![Pic49326.gif](../files/img/Pic49326.gif "Pic49326.gif")
 
 :\*This will bring you to your meetings home page. You will have to set
 up a password. Please use something you will remember.
 
-![../files/Pic25344.gif](../files/Pic25344.gif "../files/Pic25344.gif")
+![Pic25344.gif](../files/img/Pic25344.gif "Pic25344.gif")
 
 :\*Your meeting URL is on this page too - you will share this URL with
 Ninjas and remote mentors to enable them to connect in your meeting

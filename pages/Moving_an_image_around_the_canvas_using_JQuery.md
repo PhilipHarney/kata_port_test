@@ -10,7 +10,7 @@ pressed the player will jump until a maximum height is reached, and will
 begin the decend function at this point or if the up button is released
 before the maximum height is reached.
 
-![../files/platform001.png](../files/platform001.png "../files/platform001.png")
+![platform001.png](../files/img/platform001.png "platform001.png")
 
   - Step 1: Setup the Global variables
   - Step 2: Call init once to init the canvas

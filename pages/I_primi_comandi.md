@@ -5,12 +5,12 @@ significano.
 
   - Scrivere il seguente comando e osservare come risponde Python
 
-![Es01\_01.jpg](../files/Es01_01.jpg "../files/Es01_01.jpg")
+![Es01\_01.jpg](../files/img/Es01_01.jpg "Es01_01.jpg")
 
   - Adesso proviamo a scrivere lo stesso comando senza scrivere le
     virgolette
 
-![Es01\_02.jpg](../files/Es01_02.jpg "../files/Es01_02.jpg")
+![Es01\_02.jpg](../files/img/Es01_02.jpg "Es01_02.jpg")
 
 Questa volta Python risponde con un errore e ci dice che l'istruzione
 `print(Ciao)` contiere il nome Ciao che risulta non essere definito.
@@ -18,11 +18,11 @@ Questa volta Python risponde con un errore e ci dice che l'istruzione
 Ora proviamo ad eseguire questo comando e utilizzare print per vedere
 cosa Python stamperà a video:
 
-![Es01\_03.jpg](../files/Es01_03.jpg "../files/Es01_03.jpg")
+![Es01\_03.jpg](../files/img/Es01_03.jpg "Es01_03.jpg")
 
 e poi
 
-![Es01\_04.jpg](../files/Es01_04.jpg "../files/Es01_04.jpg")
+![Es01\_04.jpg](../files/img/Es01_04.jpg "Es01_04.jpg")
 
 ## Alcune considerazioni
 

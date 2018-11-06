@@ -1,6 +1,6 @@
 # App Inventor
 
-![../files/AppInventor.jpg](../files/AppInventor.jpg "../files/AppInventor.jpg")
+![AppInventor.jpg](../files/img/AppInventor.jpg "AppInventor.jpg")
 
 **[About App
 Inventor](http://appinventor.mit.edu/explore/about-us.html)**

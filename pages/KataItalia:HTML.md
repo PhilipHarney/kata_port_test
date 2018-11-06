@@ -2,7 +2,7 @@
 
 # Dojo Tutorials
 
-![HTML](../files/Kata_banners_html.png‎
+![HTML](../files/img/Kata_banners_html.png‎
 "HTML")
 
 | Topic              | Full Title                                                                                                           | Dojo                                              | Presented By                                | Level      | Language | Description                                                                                      | Type         | Category |

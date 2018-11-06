@@ -57,7 +57,7 @@ with technology is a core goal of CoderDojo.
 
 ### Learn to Code with Frozen\!
 
-![../files/Frozen-square.png](../files/Frozen-square.png "../files/Frozen-square.png") Here's a
+![Frozen-square.png](../files/img/Frozen-square.png "Frozen-square.png") Here's a
 cool tool for introducing young women and girls to coding. It's
 Code.org's Frozen, Hour of Code game\! You can learn to code with Frozen
 by clicking on the picture\!

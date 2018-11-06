@@ -2,8 +2,8 @@
 
 <div style="margin:0; margin-top:0px; margin-bottom:15px; margin-right:0px; border:6px solid #61c93f; padding:.3em 1em 1em 1em; background-color:#FFFFFF;">
 
-**What is Scratch?** ![Scratch\_cat\_large.png](../files/Scratch_cat_large.png
-"../files/Scratch_cat_large.png")
+**What is Scratch?** ![Scratch\_cat\_large.png](../files/img/Scratch_cat_large.png
+"Scratch_cat_large.png")
 
 :\*Scratch is a programming language and an online community where young
 people can program and share interactive media such as stories, games,

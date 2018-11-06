@@ -57,4 +57,4 @@ Se si utilizza l'immagine di sfondo proposta
 ([media:Sfondo.jpg](media:Sfondo.jpg.md), il risultato sarà il
 seguente:
 
-![Risultato\_02.jpg](../files/Risultato_02.jpg "../files/Risultato_02.jpg")
+![Risultato\_02.jpg](../files/img/Risultato_02.jpg "Risultato_02.jpg")

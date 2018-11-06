@@ -1,7 +1,7 @@
 Benvenuti nella versione italiana della base di conoscenze CoderDojo
 Kata.
 
-![ center | link=<http://www.coderdojoitalia.org/>](../files/KataItalia.png
+![ center | link=<http://www.coderdojoitalia.org/>](../files/img/KataItalia.png
 " center | link=http://www.coderdojoitalia.org/")
 
 # CoderDojo Italia - Panoramica risorse didattiche
@@ -15,7 +15,7 @@ sacco\!
 
 ### ECHO
 
-![../files/ECHOicon.png](../files/ECHOicon.png "../files/ECHOicon.png")
+![ECHOicon.png](../files/img/ECHOicon.png "ECHOicon.png")
 
   - 
     
@@ -31,7 +31,7 @@ sacco\!
 
 ### Python
 
-![../files/snakesicon.png](../files/snakesicon.png "../files/snakesicon.png")
+![snakesicon.png](../files/img/snakesicon.png "snakesicon.png")
 [KataItalia:Python](KataItalia:Python.md)
 
   - 
@@ -48,8 +48,8 @@ Italia\!
 
 ### Scratch
 
-![Kata\_scratch-icon3.png](../files/Kata_scratch-icon3.png
-"../files/Kata_scratch-icon3.png") [KataItalia:ScratchTastic](KataItalia:ScratchTastic.md)
+![Kata\_scratch-icon3.png](../files/img/Kata_scratch-icon3.png
+"Kata_scratch-icon3.png") [KataItalia:ScratchTastic](KataItalia:ScratchTastic.md)
 
   - 
     
@@ -66,7 +66,7 @@ Italia\!
 
 ### HTML
 
-![../files/HTMLicon2.png](../files/HTMLicon2.png "../files/HTMLicon2.png")
+![HTMLicon2.png](../files/img/HTMLicon2.png "HTMLicon2.png")
 [KataItalia:HTML](KataItalia:HTML.md)
 
   - 
@@ -82,7 +82,7 @@ Italia\!
 
 ### Minecraft
 
-![ link=KataItalia:Minecraft|left|100px](../files/Kata_banners_minecrafticon.png
+![ link=KataItalia:Minecraft|left|100px](../files/img/Kata_banners_minecrafticon.png
 " link=KataItalia:Minecraft|left|100px")
 [KataItalia:Minecraft](KataItalia:Minecraft.md)
 
@@ -99,7 +99,7 @@ Italia\!
 
 ### Laboratorio Hardware
 
-![../files/labicon2.png](../files/labicon2.png "../files/labicon2.png") [KataItalia:Laboratorio
+![labicon2.png](../files/img/labicon2.png "labicon2.png") [KataItalia:Laboratorio
 Hardware](KataItalia:Laboratorio_Hardware.md)
 
   - 

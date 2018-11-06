@@ -1,4 +1,4 @@
-<onlyinclude><includeonly>![Raspberry Pi](../files/Raspberry_pi_hand_logo.png
+<onlyinclude><includeonly>![Raspberry Pi](../files/img/Raspberry_pi_hand_logo.png
 "Raspberry Pi")
 
 <div style="clear: both; height:10px;">

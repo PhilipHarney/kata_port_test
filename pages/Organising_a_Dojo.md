@@ -25,7 +25,7 @@ setting up and running a CoderDojo.
 
 ### Champions
 
-![../files/champicon2.png](../files/champicon2.png "../files/champicon2.png") A CoderDojo Champion
+![champicon2.png](../files/img/champicon2.png "champicon2.png") A CoderDojo Champion
 is an individual who volunteers to take charge of setting up, running
 and maintaining a Dojo. Learn what a champion is and how to become one
 here\! [Champions](Champion.md)  
@@ -36,7 +36,7 @@ here\! [Champions](Champion.md)
 
 ### Setting up a Dojo
 
-![ link=Setting Up A Dojo](../files/setupdojoicon22.png
+![ link=Setting Up A Dojo](../files/img/setupdojoicon22.png
 " link=Setting Up A Dojo") [Set Up A Dojo](Setting_Up_A_Dojo.md)
 
   - 
@@ -53,7 +53,7 @@ here\!
 
 ### Guiding Principles and Philosophies
 
-![ link= Guiding Principles and Philosophies](../files/principlesicon.png
+![ link= Guiding Principles and Philosophies](../files/img/principlesicon.png
 " link= Guiding Principles and Philosophies") [Principles &
 Philosophies](Guiding_Principles_and_Philosophies.md)
 
@@ -72,7 +72,7 @@ Philosophies](Guiding_Principles_and_Philosophies.md)
 
 ### Mentors and Volunteers
 
-![ link=Mentors and Volunteers](../files/volunteersicon.png
+![ link=Mentors and Volunteers](../files/img/volunteersicon.png
 " link=Mentors and Volunteers") [Mentors & Volunteers](Mentors_and_Volunteers.md)
 
   - 
@@ -89,7 +89,7 @@ Philosophies](Guiding_Principles_and_Philosophies.md)
 
 ### Materials & Templates
 
-![../files/legalicon2.png](../files/legalicon2.png "../files/legalicon2.png") [Materials &
+![legalicon2.png](../files/img/legalicon2.png "legalicon2.png") [Materials &
 Templates](Materials.md)
 
   - 
@@ -106,7 +106,7 @@ here\!
 
 ### Recommended Practice
 
-![../files/practiceicon2.png](../files/practiceicon2.png "../files/practiceicon2.png") [Recommended
+![practiceicon2.png](../files/img/practiceicon2.png "practiceicon2.png") [Recommended
 Practice](Recommended_Practice.md)
 
   - 
@@ -124,7 +124,7 @@ Dojo\!
 
 ### Rewards and Recognition
 
-![../files/rewardicon2.png](../files/rewardicon2.png "../files/rewardicon2.png") [Rewards &
+![rewardicon2.png](../files/img/rewardicon2.png "rewardicon2.png") [Rewards &
 Recognition](Rewards.md)
 
   - 
@@ -141,7 +141,7 @@ out\!
 
 ### FAQ's
 
-![../files/FAQicon.png](../files/FAQicon.png "../files/FAQicon.png") [FAQ's](http://help.coderdojo.com/)
+![FAQicon.png](../files/img/FAQicon.png "FAQicon.png") [FAQ's](http://help.coderdojo.com/)
 
   - 
     
@@ -158,7 +158,7 @@ here\!
 
 ### Child Protection & Background Checking
 
-![../files/Childicon.png](../files/Childicon.png "../files/Childicon.png") [Child Protection &
+![Childicon.png](../files/img/Childicon.png "Childicon.png") [Child Protection &
 Background Checking](Child_Protection_and_Background_Checking.md)
 
   - 
@@ -176,7 +176,7 @@ Checking
 
 ### CoderDojo Regional
 
-![Simple\_Globe.png](../files/Simple_Globe.png "../files/Simple_Globe.png") [CoderDojo
+![Simple\_Globe.png](../files/img/Simple_Globe.png "Simple_Globe.png") [CoderDojo
 Regional ](Dojo_Groups.md)
 
   - 

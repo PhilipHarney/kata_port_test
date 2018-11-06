@@ -14,5 +14,5 @@ If using the coordinates on Zen, make sure you remove the brackets on
 either side of the coordinates you get from the prompt first though\!
 (correct: *-xx.xxx, xx.xxxx*, incorrect: *(-xx.xxxx, xx.xxxxx)* )
 
-![Coordinates\_gmaps\_demo.png](../files/Coordinates_gmaps_demo.png
-"../files/Coordinates_gmaps_demo.png")
+![Coordinates\_gmaps\_demo.png](../files/img/Coordinates_gmaps_demo.png
+"Coordinates_gmaps_demo.png")

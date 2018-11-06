@@ -1,4 +1,4 @@
-![Banner\_for\_kata.png](../files/Banner_for_kata.png "../files/Banner_for_kata.png")
+![Banner\_for\_kata.png](../files/img/Banner_for_kata.png "Banner_for_kata.png")
 
 ## Summary
 

@@ -6,7 +6,7 @@
 
 ### About Recommended Practice
 
-![../files/aboutRPIcon.png](../files/aboutRPIcon.png "../files/aboutRPIcon.png")
+![aboutRPIcon.png](../files/img/aboutRPIcon.png "aboutRPIcon.png")
 [About](About_Recommended_Practice.md)
 
   - 
@@ -23,7 +23,7 @@ here\!
 
 ### CoderDojo Erasmus+ Recommended Practice Sushi Series
 
-![../files/RPdocIcon.png](../files/RPdocIcon.png "../files/RPdocIcon.png") [Recommended Sushi Card
+![RPdocIcon.png](../files/img/RPdocIcon.png "RPdocIcon.png") [Recommended Sushi Card
 Series](Recommended_Practice_Code.md)
 
   - 
@@ -41,7 +41,7 @@ here\!
 
 ### Recommended Practice Document
 
-![../files/RPdocIcon.png](../files/RPdocIcon.png "../files/RPdocIcon.png") [Recommended Practice
+![RPdocIcon.png](../files/img/RPdocIcon.png "RPdocIcon.png") [Recommended Practice
 Document](Recommended_Practice_Code.md)
 
   - 
@@ -58,7 +58,7 @@ here\!
 
 ### Supporting Documents
 
-![ link=Tao Supporting Documents |left|100px](../files/TaoRPdocsicon.png
+![ link=Tao Supporting Documents |left|100px](../files/img/TaoRPdocsicon.png
 " link=Tao Supporting Documents |left|100px") [Supporting
 Documents](Tao_Supporting_Documents.md)
 

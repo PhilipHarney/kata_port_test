@@ -8,7 +8,7 @@ local mentors here](Tutorials.md)
 
 ### Beginner Resources
 
-![Beginner\_Resource.png](../files/Beginner_Resource.png "../files/Beginner_Resource.png")
+![Beginner\_Resource.png](../files/img/Beginner_Resource.png "Beginner_Resource.png")
 [Beginner Resources](Beginner_Resource.md)
 
   - 
@@ -26,7 +26,7 @@ local mentors here](Tutorials.md)
 ### Intermediate Resources
 
 ![ link=Intermediate
-Resources|left|100px](../files/Intermediate_Resourcesicon.png
+Resources|left|100px](../files/img/Intermediate_Resourcesicon.png
 " link=Intermediate Resources|left|100px") [Intermediate
 Resources](Intermediate_Resources.md)
 
@@ -45,7 +45,7 @@ resources\!
 
 ### Advance Resources
 
-![ link=Advanced Resource|left|100px](../files/AdvanceResource2.png
+![ link=Advanced Resource|left|100px](../files/img/AdvanceResource2.png
 " link=Advanced Resource|left|100px") [Advanced Resources](Advanced_Resource.md)
 
   - 

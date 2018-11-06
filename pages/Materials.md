@@ -4,7 +4,7 @@
 
 ### CoderDojo Logos and Brand Guidelines
 
-![../files/logobrand.png](../files/logobrand.png "../files/logobrand.png") [Download the CoderDojo
+![logobrand.png](../files/img/logobrand.png "logobrand.png") [Download the CoderDojo
 logo ](https://coderdojo.com/wp-content/uploads/2014/09/CoderDojo-Logo-and-Brand-Guidelines.zip)
 
   - 
@@ -26,7 +26,7 @@ Dojo\!
 
 ![
 link=<https://drive.google.com/a/hwf.io/folderview?id=0B9k8EqhS6jvCYnZKNnVsOE9pZTA&usp=drive_web>
-](../files/Dojo_Promo_Materials.png
+](../files/img/Dojo_Promo_Materials.png
 " link=https://drive.google.com/a/hwf.io/folderview?id=0B9k8EqhS6jvCYnZKNnVsOE9pZTA&usp=drive_web ")
 [Check here for Dojo Promo Materials ](Dojo_Promo_Materials.md)
 

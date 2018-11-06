@@ -1,6 +1,6 @@
 ## Ruby
 
-![../files/Try-ruby.png](../files/Try-ruby.png "../files/Try-ruby.png")
+![Try-ruby.png](../files/img/Try-ruby.png "Try-ruby.png")
 
 Ruby is a programming language from Japan which is revolutionising the
 web. The beauty of Ruby is found in its balance between simplicity and
@@ -10,8 +10,8 @@ power. Find out more about Ruby [HERE\!](http://www.ruby-lang.org/)
 
 ## Why's Poignant Guide to Ruby
 
-![Whys\_poignant\_guide.jpg](../files/Whys_poignant_guide.jpg
-"../files/Whys_poignant_guide.jpg") Why the lucky stiff (often abbreviated to Why
+![Whys\_poignant\_guide.jpg](../files/img/Whys_poignant_guide.jpg
+"Whys_poignant_guide.jpg") Why the lucky stiff (often abbreviated to Why
 or \_why), was until 2009, a prolific writer, cartoonist, artist, and
 computer programmer notable for his work with the Ruby programming
 language. He was known as "one of the most unusual, and beloved,

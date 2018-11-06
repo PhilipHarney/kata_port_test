@@ -1,7 +1,7 @@
 ## About
 
 Here you will find beginner resources for online learning and creating
-Apps and websites\! ![centre|700px](../files/other_resources_banner.png
+Apps and websites\! ![centre|700px](../files/img/other_resources_banner.png
 "centre|700px")
 
 ## Online Learning

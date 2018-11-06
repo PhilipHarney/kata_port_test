@@ -8,8 +8,8 @@ Het materiaal op dit gedeelte zal voornamelijk voor de
 
 #### Scratch
 
-![../files/Scratchweb.png](../files/Scratchweb.png
-"../files/Scratchweb.png")
+![Scratchweb.png](../files/img/Scratchweb.png
+"Scratchweb.png")
 
 | Topic   | Full Title                                                                                                                       | Dojo            | Presented By | Level    | Language | Description                                                                                         | Type         | Category |
 | ------- | -------------------------------------------------------------------------------------------------------------------------------- | --------------- | ------------ | -------- | -------- | --------------------------------------------------------------------------------------------------- | ------------ | -------- |

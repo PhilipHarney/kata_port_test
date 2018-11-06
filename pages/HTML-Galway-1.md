@@ -59,7 +59,7 @@ account:
   - Giving the kids from 10-20 minutes (up to 6 months)to expand on the
     idea.
 
-![../files/escape.png](../files/escape.png "../files/escape.png")
+![escape.png](../files/img/escape.png "escape.png")
 
 ### Week2
 

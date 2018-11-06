@@ -8,17 +8,17 @@ Environment.
 
 <!-- end list -->
 
-  - ![../files/Codeforallireland.png](../files/Codeforallireland.png
-    "../files/Codeforallireland.png")
+  - ![Codeforallireland.png](../files/img/Codeforallireland.png
+    "Codeforallireland.png")
 
 <!-- end list -->
 
-  - ![Odi\_logo1.png](../files/Odi_logo1.png "../files/Odi_logo1.png")
+  - ![Odi\_logo1.png](../files/img/Odi_logo1.png "Odi_logo1.png")
 
 <!-- end list -->
 
-  - ![../files/Openbrew-logo.jpg](../files/Openbrew-logo.jpg
-    "../files/Openbrew-logo.jpg")
+  - ![Openbrew-logo.jpg](../files/img/Openbrew-logo.jpg
+    "Openbrew-logo.jpg")
 
 <!-- end list -->
 

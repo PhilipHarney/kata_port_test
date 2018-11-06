@@ -1,4 +1,4 @@
-<onlyinclude><includeonly>![App Inventor Logo](../files/App_inventor.png
+<onlyinclude><includeonly>![App Inventor Logo](../files/img/App_inventor.png
 "App Inventor Logo")
 
 <div style="clear: both; height:10px;">

@@ -2,7 +2,7 @@
 
 # Arduino - Dojo Tutorials
 
-![ center |link=<http://arduino.cc/>](../files/Arduino_Logo.png
+![ center |link=<http://arduino.cc/>](../files/img/Arduino_Logo.png
 " center |link=http://arduino.cc/")
 
 | Topic   | Full Title                                                                                                      | Dojo                                        | Presented By                        | Level    | Language | Description                                                                                                                                                                                                                                                                                                                                | Type         | Category |

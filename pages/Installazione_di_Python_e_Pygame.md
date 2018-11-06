@@ -21,12 +21,12 @@ Per scoprire se la tua versione di Windows è a 32bit oppure a 64bit devi
 accedere al pulsante di Start, selezionare la voce Computer e premere il
 pulsante delle proprietà (in genere il pulsante destro)
 
-![Installa\_01.jpg](../files/Installa_01.jpg "../files/Installa_01.jpg")
+![Installa\_01.jpg](../files/img/Installa_01.jpg "Installa_01.jpg")
 
 A questo punto nel pannello delle proprietà che verrà visualizzato sarà
 chiaramente indicato se si tratta della versione 32bit oppure 64:
 
-![Installa\_02.jpg](../files/Installa_02.jpg "../files/Installa_02.jpg")
+![Installa\_02.jpg](../files/img/Installa_02.jpg "Installa_02.jpg")
 
 ## Istallazione di Python 3.4 (l'ultima versione disponibile finora)
 

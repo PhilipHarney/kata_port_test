@@ -1,12 +1,12 @@
-![../files/KataGreece.png](../files/KataGreece.png
-"../files/KataGreece.png")
+![KataGreece.png](../files/img/KataGreece.png
+"KataGreece.png")
 
 <div style="margin:0; margin-top:0px; margin-bottom:15px; margin-right:0px; border:6px solid #2c9cfb; padding:.3em 1em 1em 1em; background-color:#FFFFFF;">
 
 ### Scratch
 
-![Kata\_scratch-icon3.png](../files/Kata_scratch-icon3.png
-"../files/Kata_scratch-icon3.png") [Kata\_ελληνικά:ScratchTastic](Kata_ελληνικά:ScratchTastic.md)
+![Kata\_scratch-icon3.png](../files/img/Kata_scratch-icon3.png
+"Kata_scratch-icon3.png") [Kata\_ελληνικά:ScratchTastic](Kata_ελληνικά:ScratchTastic.md)
 
   - 
     

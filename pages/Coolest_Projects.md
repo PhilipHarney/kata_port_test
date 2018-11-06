@@ -57,7 +57,7 @@ Every project that is presented is cool, we're also looking to find the
 Coolest Project in each category. The projects will be judged on the
 following criteria:
 
-![../files/Categories.png](../files/Categories.png "../files/Categories.png")
+![Categories.png](../files/img/Categories.png "Categories.png")
 
 So its now your turn to come up with an idea you are passionate about
 and want to develop.

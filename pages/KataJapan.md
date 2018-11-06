@@ -1,7 +1,7 @@
 ## [KataJapan](KataJapan.md)
 
-![Kata\_banners\_CDJapan.png](../files/Kata_banners_CDJapan.png
-"../files/Kata_banners_CDJapan.png")
+![Kata\_banners\_CDJapan.png](../files/img/Kata_banners_CDJapan.png
+"Kata_banners_CDJapan.png")
 
 ## CoderDojoとは?
 
@@ -13,8 +13,8 @@ CoderDojo
 はオープンソースコミュニティの一環として、チャンピオンやメンターと呼ばれる全国各地の協力者によって自主的に運営されています。メンターは主に、プログラミングやHTMLのコーディングを仕事としているプロの方たちがされることが多いです
 :-)
 
-![coderdojo-japan\_cover.jpg](../files/coderdojo-japan_cover.jpg
-"../files/coderdojo-japan_cover.jpg")
+![coderdojo-japan\_cover.jpg](../files/img/coderdojo-japan_cover.jpg
+"coderdojo-japan_cover.jpg")
 
 ## 重要: 本ページは移行されました
 

@@ -7,7 +7,7 @@ Dojo\!\!
 
 ### Start A Dojo Guide
 
-![../files/dojoguideIcon.png](../files/dojoguideIcon.png "../files/dojoguideIcon.png") [Dojo
+![dojoguideIcon.png](../files/img/dojoguideIcon.png "dojoguideIcon.png") [Dojo
 Guide](Dojo_Guide.md)
 
   - 
@@ -24,7 +24,7 @@ here\!
 
 ### Steps to Create A Dojo
 
-![ link=Steps to Create A Dojo|left|100px](../files/Steps.png
+![ link=Steps to Create A Dojo|left|100px](../files/img/Steps.png
 " link=Steps to Create A Dojo|left|100px") [Steps to Create A
 Dojo](Steps_to_Create_A_Dojo.md)
 
@@ -42,7 +42,7 @@ steps\!
 
 ### Dojo Dictionary
 
-![ link=Dojo Dictionary|left|100px](../files/DictionaryIcon.png
+![ link=Dojo Dictionary|left|100px](../files/img/DictionaryIcon.png
 " link=Dojo Dictionary|left|100px") [Dojo Dictionary](Dojo_Dictionary.md)
 
   - 
@@ -59,7 +59,7 @@ here\!
 
 ### Email Policy
 
-![ link=Email Policy left|100px](../files/DictionaryIcon.png
+![ link=Email Policy left|100px](../files/img/DictionaryIcon.png
 " link=Email Policy left|100px") [Naming Policy](Dojo_Email.md)
 
   - 

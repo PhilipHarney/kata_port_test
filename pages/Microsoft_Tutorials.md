@@ -1,4 +1,4 @@
-![../files/Microsofticon.png](../files/Microsofticon.png "../files/Microsofticon.png")
+![Microsofticon.png](../files/img/Microsofticon.png "Microsofticon.png")
 
 These tutorials have been created by Microsoft for the CoderDojo
 Community\!

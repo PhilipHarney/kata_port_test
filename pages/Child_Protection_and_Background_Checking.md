@@ -49,7 +49,7 @@ us know on
 
 ### Ireland
 
-![../files/clover.png](../files/clover.png "../files/clover.png") [Child Protection Ireland
+![clover.png](../files/img/clover.png "clover.png") [Child Protection Ireland
 ](Child_Protection_Ireland.md)
 
   - 
@@ -66,7 +66,7 @@ us know on
 
 ### United Kingdom
 
-![ link=Child\_Protection\_UK|left|100px](../files/Child_Protection_UK.jpg
+![ link=Child\_Protection\_UK|left|100px](../files/img/Child_Protection_UK.jpg
 " link=Child_Protection_UK|left|100px") [Child Protection
 UK](Child_Protection_UK.md)
 
@@ -84,8 +84,8 @@ here\!
 
 ### United States
 
-![Child\_Protection\_USA.jpg](../files/Child_Protection_USA.jpg
-"../files/Child_Protection_USA.jpg") [Child Protection USA](Child_Protection_USA.md)
+![Child\_Protection\_USA.jpg](../files/img/Child_Protection_USA.jpg
+"Child_Protection_USA.jpg") [Child Protection USA](Child_Protection_USA.md)
 
   - 
     
@@ -102,8 +102,8 @@ here\!
 
 ### Global
 
-![Child\_Protection\_Global.png](../files/Child_Protection_Global.png
-"../files/Child_Protection_Global.png") [Child Protection Global](Child_Protection_Global.md)
+![Child\_Protection\_Global.png](../files/img/Child_Protection_Global.png
+"Child_Protection_Global.png") [Child Protection Global](Child_Protection_Global.md)
 
   - 
     

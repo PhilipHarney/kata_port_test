@@ -1,6 +1,6 @@
 ## Pop Up Stand
 
-![Pop\_up\_screenshot.PNG](Pop_up_screenshot.PNG
+![Pop\_up\_screenshot.PNG](../files/img/Pop_up_screenshot.PNG
 "Pop_up_screenshot.PNG")
 
   -   

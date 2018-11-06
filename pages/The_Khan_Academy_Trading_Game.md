@@ -1,4 +1,4 @@
-![../files/trade.png](../files/trade.png "../files/trade.png")
+![trade.png](../files/img/trade.png "trade.png")
 
   - <https://www.khanacademy.org/cs/trade/1106707071>
 

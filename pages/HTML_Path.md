@@ -1,4 +1,4 @@
-<onlyinclude><includeonly>![HTML Logo](../files/Html_logo.png "HTML Logo")
+<onlyinclude><includeonly>![HTML Logo](../files/img/Html_logo.png "HTML Logo")
 
 <div style="clear: both; height:10px;">
 

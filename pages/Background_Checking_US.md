@@ -2,8 +2,8 @@ It is recommended that [Verified
 Volunteers](http://www.verifiedvolunteers.com/) are used for providing
 background checking for US CoderDojo volunteers.
 
-![Verified\_volunteers\_logo.png](../files/Verified_volunteers_logo.png
-"../files/Verified_volunteers_logo.png")
+![Verified\_volunteers\_logo.png](../files/img/Verified_volunteers_logo.png
+"Verified_volunteers_logo.png")
 
 ## Why Verified Volunteers?
 

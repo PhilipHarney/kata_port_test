@@ -1,5 +1,5 @@
-![Unverified\_dojo\_alert.png](../files/Unverified_dojo_alert.png
-"../files/Unverified_dojo_alert.png")
+![Unverified\_dojo\_alert.png](../files/img/Unverified_dojo_alert.png
+"Unverified_dojo_alert.png")
 
 Dojos that have no been verified by the core CoderDojo team, have this
 alert on their Dojo listing on Zen. Usually, this is at the early

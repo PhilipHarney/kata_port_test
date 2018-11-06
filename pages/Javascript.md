@@ -34,10 +34,10 @@ There is a bigger-kids / adults section Code Maven
 [http://www.crunchzilla.com/code-maven
 http://www.crunchzilla.com/code-maven](http://www.crunchzilla.com/code-maven_http://www.crunchzilla.com/code-maven.md)
 
-![../files/LearnJS.png](../files/LearnJS.png
-"../files/LearnJS.png")<https://developer.mozilla.org/en-US/learn/javascript>
+![LearnJS.png](../files/img/LearnJS.png
+"LearnJS.png")<https://developer.mozilla.org/en-US/learn/javascript>
 
-![../files/Html5gamedevs.png](../files/Html5gamedevs.png "../files/Html5gamedevs.png")
+![Html5gamedevs.png](../files/img/Html5gamedevs.png "Html5gamedevs.png")
 
 An excellent introduction to an excellent forum.
 <http://www.html5gamedevs.com/topic/368-learning-to-write-good-javascript-resources-for-beginners/>
@@ -52,7 +52,7 @@ An excellent introduction to an excellent forum.
 
 [Jslint](http://www.jslint.com/)
 
-![../files/html5rocks.png](../files/html5rocks.png "../files/html5rocks.png")
+![html5rocks.png](../files/img/html5rocks.png "html5rocks.png")
 
 ### Advanced
 

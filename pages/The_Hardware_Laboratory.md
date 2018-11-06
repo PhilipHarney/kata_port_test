@@ -4,7 +4,7 @@
 
 ### Raspberry Pi Resources
 
-![../files/raspberryicon2.png](../files/raspberryicon2.png "../files/raspberryicon2.png")
+![raspberryicon2.png](../files/img/raspberryicon2.png "raspberryicon2.png")
 [Raspberry Pi Resources](Raspberry_Pi_Resource.md)
 
   - 
@@ -21,7 +21,7 @@ here\!
 
 ### Arduino Resources
 
-![ link=Arduino Resource|left|100px](../files/Arduino_Resourceicon.png
+![ link=Arduino Resource|left|100px](../files/img/Arduino_Resourceicon.png
 " link=Arduino Resource|left|100px") [Arduino Resources](Arduino_Resource.md)
 
   - 
@@ -38,7 +38,7 @@ here\!
 
 ### Wearables Resources
 
-![ link=Wearables Path|left|100px](../files/Wearables.png
+![ link=Wearables Path|left|100px](../files/img/Wearables.png
 " link=Wearables Path|left|100px") [Wearables Resources](Wearables_Path.md)
 
   - 
@@ -55,8 +55,8 @@ here\!
 
 ### Micro:bit Resources
 
-![Microbit-2242373\_640.jpg](../files/Microbit-2242373_640.jpg
-"../files/Microbit-2242373_640.jpg") [Microbit Resources](Microbit_Path.md)
+![Microbit-2242373\_640.jpg](../files/img/Microbit-2242373_640.jpg
+"Microbit-2242373_640.jpg") [Microbit Resources](Microbit_Path.md)
 
   - 
     
@@ -72,7 +72,7 @@ here\!
 
 ### 3D Tools Resources
 
-![ link=3D Tools Resource|left|100px](../files/3D_Tools_Resource2.png
+![ link=3D Tools Resource|left|100px](../files/img/3D_Tools_Resource2.png
 " link=3D Tools Resource|left|100px") [3D Tools Resources](3D_Tools_Resource.md)
 
   - 

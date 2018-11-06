@@ -153,4 +153,4 @@ with a hobby girls love – creating and sharing videos.
 people learn the basics of computer programming which they can then
 apply to their own projects.
 
-![centre|500px](../files/other_resources_banner.png "centre|500px")
+![centre|500px](../files/img/other_resources_banner.png "centre|500px")

@@ -8,7 +8,7 @@ below\!
 
 ### Autodesk Tutorials
 
-![ link=Autodesk Tutorials|left|100px](../files/Autodeskicon2.jpg
+![ link=Autodesk Tutorials|left|100px](../files/img/Autodeskicon2.jpg
 " link=Autodesk Tutorials|left|100px") [Autodesk Tutorials](Autodesk_Tutorials.md)
 
   - 
@@ -28,7 +28,7 @@ more\!
 
 ### IBM Tutorials
 
-![../files/IBMicon.png](../files/IBMicon.png "../files/IBMicon.png") [IBM Tutorials](IBM_Tutorials.md)
+![IBMicon.png](../files/img/IBMicon.png "IBMicon.png") [IBM Tutorials](IBM_Tutorials.md)
 
   - 
     
@@ -44,7 +44,7 @@ IBM\!
 
 ### Microsoft Tutorials
 
-![../files/Microsofticon.png](../files/Microsofticon.png "../files/Microsofticon.png") [Microsoft
+![Microsofticon.png](../files/img/Microsofticon.png "Microsofticon.png") [Microsoft
 Tutorials](Microsoft_Tutorials.md)
 
   - 
@@ -61,8 +61,8 @@ here\!
 
 ### Trinket Tutorials
 
-![../files/Trinket-logo-notag-white.png](../files/Trinket-logo-notag-white.png
-"../files/Trinket-logo-notag-white.png") [Trinket Tutorials](Trinket_Tutorials.md)
+![Trinket-logo-notag-white.png](../files/img/Trinket-logo-notag-white.png
+"Trinket-logo-notag-white.png") [Trinket Tutorials](Trinket_Tutorials.md)
 
   - 
     

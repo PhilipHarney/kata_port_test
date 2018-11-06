@@ -1,7 +1,7 @@
 \<\< Torna a [KataItalia](KataItalia.md)
 
-![../files/Minecraft-logo.png](../files/Minecraft-logo.png
-"../files/Minecraft-logo.png")
+![Minecraft-logo.png](../files/img/Minecraft-logo.png
+"Minecraft-logo.png")
 
 # Dojo Tutorials
 

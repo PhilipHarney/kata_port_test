@@ -7,8 +7,8 @@
 [Why's Poignant guide to
 Ruby](http://mislav.uniqpath.com/poignant-guide/)
 
-![Whys\_poignant\_guide.jpg](../files/Whys_poignant_guide.jpg
-"../files/Whys_poignant_guide.jpg") Why the lucky stiff (often abbreviated to Why
+![Whys\_poignant\_guide.jpg](../files/img/Whys_poignant_guide.jpg
+"Whys_poignant_guide.jpg") Why the lucky stiff (often abbreviated to Why
 or \_why), was until 2009, a prolific writer, cartoonist, artist, and
 computer programmer notable for his work with the Ruby programming
 language. He was known as "one of the most unusual, and beloved,

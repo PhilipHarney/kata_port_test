@@ -12,12 +12,12 @@ Il sistema di sviluppo quando si usa Python di chiama semplicemente IDLE
 e si carica cliccando sull'icona IDLE (Python GUI) oppure dalla voce del
 menu principale dei programmi
 
-![Idle\_01.png](../files/Idle_01.png "../files/Idle_01.png")
+![Idle\_01.png](../files/img/Idle_01.png "Idle_01.png")
 
 Una volta che IDLE verrà caricato correttamente sullo schermo apparirà
 la finestra del programma molto simile, se non uguale, a questa:
 
-![Idle\_02.png](../files/Idle_02.png "../files/Idle_02.png")
+![Idle\_02.png](../files/img/Idle_02.png "Idle_02.png")
 
 Vediamo di studiare la finestra IDLE :
 

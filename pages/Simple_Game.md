@@ -8,16 +8,16 @@ When the cat is tounching the duck, the duck says 'Ouch' and moves away.
 
 **Script for cat**
 
-![../files/catandduck.gif](../files/catandduck.gif "../files/catandduck.gif")
+![catandduck.gif](../files/img/catandduck.gif "catandduck.gif")
 
 -----
 
 '''Script for duck '''
 
-![../files/duck.gif](../files/duck.gif "../files/duck.gif")
+![duck.gif](../files/img/duck.gif "duck.gif")
 
 -----
 
 When the project is run it looks like this
 
-![../files/catandduckstage.png](../files/catandduckstage.png "../files/catandduckstage.png")
+![catandduckstage.png](../files/img/catandduckstage.png "catandduckstage.png")

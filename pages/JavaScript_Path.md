@@ -1,4 +1,4 @@
-<onlyinclude> <includeonly>![JavaScript Logo](../files/Js_logo.png
+<onlyinclude> <includeonly>![JavaScript Logo](../files/img/Js_logo.png
 "JavaScript Logo")
 
 <div style="clear: both; height:10px;">

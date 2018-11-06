@@ -7,8 +7,8 @@ games\!
 
 ### Scratch
 
-![Kata\_scratch-icon3.png](../files/Kata_scratch-icon3.png
-"../files/Kata_scratch-icon3.png") [Scratch](ScratchTastic.md)
+![Kata\_scratch-icon3.png](../files/img/Kata_scratch-icon3.png
+"Kata_scratch-icon3.png") [Scratch](ScratchTastic.md)
 
   - 
     
@@ -29,7 +29,7 @@ community.
 
 ### HTML and HTML5
 
-![ link=Build HTML|left|100px](../files/HTMLicon2.png
+![ link=Build HTML|left|100px](../files/img/HTMLicon2.png
 " link=Build HTML|left|100px") [HTML and HTML5](Build_HTML.md)
 
   - 
@@ -47,7 +47,7 @@ games\!
 
 ### Open Source Libraries
 
-![ link=Open Source Libraries|left|100px](../files/OpenLib.png
+![ link=Open Source Libraries|left|100px](../files/img/OpenLib.png
 " link=Open Source Libraries|left|100px") [Open Source
 Libraries](Open_Source_Libraries.md)
 
@@ -69,7 +69,7 @@ them.
 
 ### MMORPG
 
-![../files/MMORPG.png](../files/MMORPG.png "../files/MMORPG.png") [MMORPG](MMORPG.md)
+![MMORPG.png](../files/img/MMORPG.png "MMORPG.png") [MMORPG](MMORPG.md)
 
   - 
     
@@ -90,7 +90,7 @@ them.
 
 ### Development Platforms
 
-![../files/Platforms2.png](../files/Platforms2.png "../files/Platforms2.png")
+![Platforms2.png](../files/img/Platforms2.png "Platforms2.png")
 [Platforms](Platforms.md)
 
   - 

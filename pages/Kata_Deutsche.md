@@ -4,8 +4,8 @@
 
 ### Scratch
 
-![Kata\_scratch-icon3.png](../files/Kata_scratch-icon3.png
-"../files/Kata_scratch-icon3.png") [KataDeutsche:Scratch](KataDeutsche:Scratch.md)
+![Kata\_scratch-icon3.png](../files/img/Kata_scratch-icon3.png
+"Kata_scratch-icon3.png") [KataDeutsche:Scratch](KataDeutsche:Scratch.md)
 
   - 
     
@@ -23,7 +23,7 @@ ausgelegt
 
 ### HTML
 
-![../files/HTMLicon2.png](../files/HTMLicon2.png "../files/HTMLicon2.png")
+![HTMLicon2.png](../files/img/HTMLicon2.png "HTMLicon2.png")
 [KataDeutsche:HTML](KataDeutsche:HTML.md)
 
   - 
@@ -39,7 +39,7 @@ ausgelegt
 
 ### TouchDevelop
 
-![ link=KataDeutsche:TouchDevelop|left|100px](../files/labicon2.png
+![ link=KataDeutsche:TouchDevelop|left|100px](../files/img/labicon2.png
 " link=KataDeutsche:TouchDevelop|left|100px")
 [KataDeutsche:TouchDevelop](KataDeutsche:TouchDevelop.md)
 
@@ -56,8 +56,8 @@ ausgelegt
 
 ### Unity (Spieleentwicklungsplattform)
 
-![Kata\_banners\_dojogame\_icon.png](../files/Kata_banners_dojogame_icon.png
-"../files/Kata_banners_dojogame_icon.png") [KataDeutsche:Unity](KataDeutsche:Unity.md)
+![Kata\_banners\_dojogame\_icon.png](../files/img/Kata_banners_dojogame_icon.png
+"Kata_banners_dojogame_icon.png") [KataDeutsche:Unity](KataDeutsche:Unity.md)
 
   - 
     
@@ -72,7 +72,7 @@ ausgelegt
 
 ### OpenSCAD (3D-Modellierung)
 
-![../files/gradicon2.png](../files/gradicon2.png "../files/gradicon2.png")
+![gradicon2.png](../files/img/gradicon2.png "gradicon2.png")
 [KataDeutsche:OpenSCAD](KataDeutsche:OpenSCAD.md)
 
   - 

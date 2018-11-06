@@ -33,7 +33,7 @@ virtually any will do) a motor driver must be added. We used the
 Arduino](https://www.pololu.com/product/2511) made by Pololu but
 available around the world through various distributors.
 
-![Picture of finished First Arduino Robot](../files/First_Arduino_Robot.jpg
+![Picture of finished First Arduino Robot](../files/img/First_Arduino_Robot.jpg
 "Picture of finished First Arduino Robot")
 
 ## Content

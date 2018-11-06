@@ -6,7 +6,7 @@ by @LostDecadeGames
 
 \<-- Back to [Dojogame](Dojogame.md)
 
-  - ![../files/Html5game.jpg](../files/Html5game.jpg "../files/Html5game.jpg")
+  - ![Html5game.jpg](../files/img/Html5game.jpg "Html5game.jpg")
 
 How would you improve it? What added functions can you think of
 adding?
@@ -20,7 +20,7 @@ Will Knott
 Here Will Knott's variation. Now the object sprite moves too. Wills
 tutorial covers seven stages to make it easy to follow the code.
 
-  - ![../files/catch.png](../files/catch.png "../files/catch.png")
+  - ![catch.png](../files/img/catch.png "catch.png")
 
 <https://github.com/willknott/CoderDojo-HTML5-CanvasCatch01>
 
@@ -30,11 +30,11 @@ Techbot
 
 Here Techbot's variation001. x and y co-rdinates are shown for the hero.
 
-  - ![../files/Template008v01.png](../files/Template008v01.png "../files/Template008v01.png")
+  - ![Template008v01.png](../files/img/Template008v01.png "Template008v01.png")
 
 Here Techbot's variation002. Hero can shoot.
 
-  - ![../files/shot.png](../files/shot.png "../files/shot.png")
+  - ![shot.png](../files/img/shot.png "shot.png")
 
 <!-- end list -->
 

@@ -7,8 +7,8 @@ start.
 
 ### Scratch Tutorials
 
-![Kata\_scratch-icon3.png](../files/Kata_scratch-icon3.png
-"../files/Kata_scratch-icon3.png") [Scratch Tutorials](Scratch_Tutorials.md)
+![Kata\_scratch-icon3.png](../files/img/Kata_scratch-icon3.png
+"Kata_scratch-icon3.png") [Scratch Tutorials](Scratch_Tutorials.md)
 
   - 
     
@@ -25,7 +25,7 @@ start.
 
 ### HTML Tutorials
 
-![../files/HTMLicon2.png](../files/HTMLicon2.png "../files/HTMLicon2.png") [HTML
+![HTMLicon2.png](../files/img/HTMLicon2.png "HTMLicon2.png") [HTML
 Tutorials](HTML_Tutorials.md)
 
   - 
@@ -47,7 +47,7 @@ Tutorials](HTML_Tutorials.md)
 
 ### Python Tutorials
 
-![../files/snakesicon.png](../files/snakesicon.png "../files/snakesicon.png") [Python
+![snakesicon.png](../files/img/snakesicon.png "snakesicon.png") [Python
 Tutorials](Python_Tutorials.md)
 
   - 
@@ -68,7 +68,7 @@ here\!
 
 ### Javascript Tutorials
 
-![ link=Javascript Tutorials|left|100px](../files/Javascript-tut-icon.png
+![ link=Javascript Tutorials|left|100px](../files/img/Javascript-tut-icon.png
 " link=Javascript Tutorials|left|100px") [Javascript
 Tutorials](Javascript_Tutorials.md)
 
@@ -87,7 +87,7 @@ Tutorials](Javascript_Tutorials.md)
 
 ### App Inventor
 
-![ link=App Inventor Path|left|100px](../files/App_inventor.png
+![ link=App Inventor Path|left|100px](../files/img/App_inventor.png
 " link=App Inventor Path|left|100px") [App Inventor
 Tutorials](App_Inventor_Path.md)
 
@@ -107,7 +107,7 @@ Tutorials](App_Inventor_Path.md)
 
 ### PHP Tutorials
 
-![PHP\_Tutorials.png](../files/PHP_Tutorials.png "../files/PHP_Tutorials.png") [PHP
+![PHP\_Tutorials.png](../files/img/PHP_Tutorials.png "PHP_Tutorials.png") [PHP
 Tutorials](PHP_Tutorials.md)
 
   - 
@@ -125,7 +125,7 @@ Tutorials](PHP_Tutorials.md)
 
 ### Wearables
 
-![ link=Wearables Path|left|100px](../files/Wearables.png
+![ link=Wearables Path|left|100px](../files/img/Wearables.png
 " link=Wearables Path|left|100px") [Wearables Tutorials](Wearables_Path.md)
 
   - 
@@ -142,7 +142,7 @@ wear\!
 
 ### Arduino
 
-![ link=Arduino Path|left|100px](../files/Arduino_Logo.png
+![ link=Arduino Path|left|100px](../files/img/Arduino_Logo.png
 " link=Arduino Path|left|100px") [Arduino Tutorials](Arduino_Path.md)
 
   - 
@@ -162,8 +162,8 @@ environments.
 
 ### Micro:bit
 
-![Microbit-2242373\_640.jpg](../files/Microbit-2242373_640.jpg
-"../files/Microbit-2242373_640.jpg") [Microbit Tutorials](Microbit_Path.md)
+![Microbit-2242373\_640.jpg](../files/img/Microbit-2242373_640.jpg
+"Microbit-2242373_640.jpg") [Microbit Tutorials](Microbit_Path.md)
 
   - 
     
@@ -179,8 +179,8 @@ environments.
 
 ### Raspberry Pi
 
-![Raspberry\_pi\_hand\_logo.png](../files/Raspberry_pi_hand_logo.png
-"../files/Raspberry_pi_hand_logo.png") [Raspberry Pi Tutorials](Raspberry_Pi_Path.md)
+![Raspberry\_pi\_hand\_logo.png](../files/img/Raspberry_pi_hand_logo.png
+"Raspberry_pi_hand_logo.png") [Raspberry Pi Tutorials](Raspberry_Pi_Path.md)
 
   - 
     
@@ -198,7 +198,7 @@ Pi\!
 
 ### GIT Tutorials
 
-![../files/Gitttticon.png](../files/Gitttticon.png "../files/Gitttticon.png") [GIT
+![Gitttticon.png](../files/img/Gitttticon.png "Gitttticon.png") [GIT
 Tutorials](GIT_Tutorials.md)
 
   - 
@@ -217,7 +217,7 @@ efficiency.
 
 ### XCode Tutorials
 
-![XCode\_Tutorials.png](../files/XCode_Tutorials.png "../files/XCode_Tutorials.png")
+![XCode\_Tutorials.png](../files/img/XCode_Tutorials.png "XCode_Tutorials.png")
 [XCode Tutorials](XCode_Tutorials.md)
 
   - 
@@ -236,8 +236,8 @@ efficiency.
 
 ### Web Servers Tutorials
 
-![Web\_Servers\_Tutorials.png](../files/Web_Servers_Tutorials.png
-"../files/Web_Servers_Tutorials.png") [Web Servers Tutorials](Web_Servers_Tutorials.md)
+![Web\_Servers\_Tutorials.png](../files/img/Web_Servers_Tutorials.png
+"Web_Servers_Tutorials.png") [Web Servers Tutorials](Web_Servers_Tutorials.md)
 
   - 
     
@@ -253,7 +253,7 @@ here\!
 
 ### MySQL Tutorials
 
-![MySQL\_Tutorials.png](../files/MySQL_Tutorials.png "../files/MySQL_Tutorials.png")
+![MySQL\_Tutorials.png](../files/img/MySQL_Tutorials.png "MySQL_Tutorials.png")
 [MySQL Tutorials](MySQL_Tutorials.md)
 
   - 
@@ -271,7 +271,7 @@ here\!
 
 ### Node.js Tutorials
 
-![../files/Node2.png](../files/Node2.png "../files/Node2.png") [Node.js Tutorials](Node.js_Tutorials.md)
+![Node2.png](../files/img/Node2.png "Node2.png") [Node.js Tutorials](Node.js_Tutorials.md)
 
   - 
     
@@ -288,7 +288,7 @@ applications.
 
 ### Joomla Tutorials
 
-![../files/Joomla-icon3.png](../files/Joomla-icon3.png "../files/Joomla-icon3.png") [Joomla
+![Joomla-icon3.png](../files/img/Joomla-icon3.png "Joomla-icon3.png") [Joomla
 Tutorials](Joomla_Tutorials.md)
 
   - 
@@ -306,7 +306,7 @@ Tutorials](Joomla_Tutorials.md)
 
 ### Minecraft Tutorials
 
-![ link=Minecraft Tutorials|left|100px](../files/Kata_banners_minecrafticon.png
+![ link=Minecraft Tutorials|left|100px](../files/img/Kata_banners_minecrafticon.png
 " link=Minecraft Tutorials|left|100px") [Minecraft
 Tutorials](Minecraft_Tutorials.md)
 

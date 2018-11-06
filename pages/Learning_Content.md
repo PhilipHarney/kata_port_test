@@ -24,8 +24,8 @@ as Kata.**
 
 # Dojogame
 
-![Kata\_banners\_dojogame.png](../files/Kata_banners_dojogame.png
-"../files/Kata_banners_dojogame.png")
+![Kata\_banners\_dojogame.png](../files/img/Kata_banners_dojogame.png
+"Kata_banners_dojogame.png")
 
   -   
     [Dojogame](Dojogame.md)
@@ -37,8 +37,8 @@ as Kata.**
 
 # ScratchTastic\!
 
-![Kata\_banners\_scratch.png](../files/Kata_banners_scratch.png
-"../files/Kata_banners_scratch.png")
+![Kata\_banners\_scratch.png](../files/img/Kata_banners_scratch.png
+"Kata_banners_scratch.png")
 
   -   
     [ScratchTastic](ScratchTastic.md)
@@ -48,8 +48,8 @@ as Kata.**
 
 # Python Power
 
-![kata\_banners\_python.png](../files/kata_banners_python.png
-"../files/kata_banners_python.png")
+![kata\_banners\_python.png](../files/img/kata_banners_python.png
+"kata_banners_python.png")
 
   -   
     [Python](Python.md)
@@ -58,8 +58,8 @@ as Kata.**
 
 # The Hardware Laboratory
 
-![Kata\_banners\_laboratory.png](../files/Kata_banners_laboratory.png
-"../files/Kata_banners_laboratory.png")
+![Kata\_banners\_laboratory.png](../files/img/Kata_banners_laboratory.png
+"Kata_banners_laboratory.png")
 
   -   
     [The Hardware Laboratory](The_Hardware_Laboratory.md)
@@ -68,8 +68,8 @@ as Kata.**
 
 # The Studio
 
-![Kata\_banners\_studio.png](../files/Kata_banners_studio.png
-"../files/Kata_banners_studio.png")
+![Kata\_banners\_studio.png](../files/img/Kata_banners_studio.png
+"Kata_banners_studio.png")
 
   -   
     [The Studio](The_Studio.md)
@@ -77,7 +77,7 @@ as Kata.**
 
 # Other Languages And Operating Systems
 
-![../files/Icon-code.jpg](../files/Icon-code.jpg "../files/Icon-code.jpg") [Other Languages And
+![Icon-code.jpg](../files/img/Icon-code.jpg "Icon-code.jpg") [Other Languages And
 Operating Systems](Other_Languages_And_Operating_Systems.md)
 [Perl](Perl.md),
 [C](C.md)
@@ -88,6 +88,6 @@ and other mobile languages, [Logo](Logo.md),
 
 # The Misc Folder
 
-![../files/Icon-misc.png](../files/Icon-misc.png "../files/Icon-misc.png") [misc](misc.md)
+![Icon-misc.png](../files/img/Icon-misc.png "Icon-misc.png") [misc](misc.md)
 Pre-Categorisation This is where stuff goes during the week, prior to
 categorisation at the weekend.

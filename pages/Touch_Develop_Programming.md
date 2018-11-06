@@ -1,6 +1,6 @@
-![../files/Microsofticon.png](../files/Microsofticon.png "../files/Microsofticon.png")
-![../files/Microsoft-touch-develop-app2.jpg](../files/Microsoft-touch-develop-app2.jpg
-"../files/Microsoft-touch-develop-app2.jpg")
+![Microsofticon.png](../files/img/Microsofticon.png "Microsofticon.png")
+![Microsoft-touch-develop-app2.jpg](../files/img/Microsoft-touch-develop-app2.jpg
+"Microsoft-touch-develop-app2.jpg")
 
 These Sushi cards have been created by Microsoft for the CoderDojo
 community to help young people learn to make apps with Touch Develop\!

@@ -252,7 +252,7 @@ they understood what they had to do.
 
 [Click here to see the first ever white & yellow belts awarded by
 CoderDojo
-Drogheda](../files/Drogheda-CoderDojo-Belt-Awards.JPG)
+Drogheda](s/3/3c/Drogheda-CoderDojo-Belt-Awards.JPG.md)
 
 Other examples of CoderDojo Belts:
 

@@ -4,8 +4,8 @@
 
 #### Scratch
 
-![Kata\_scratch-icon3.png](../files/Kata_scratch-icon3.png
-"../files/Kata_scratch-icon3.png") [Scratch](ScratchTastic.md)
+![Kata\_scratch-icon3.png](../files/img/Kata_scratch-icon3.png
+"Kata_scratch-icon3.png") [Scratch](ScratchTastic.md)
 
   - 
     
@@ -23,7 +23,7 @@
 
 #### HTML
 
-![../files/HTMLicon2.png](../files/HTMLicon2.png "../files/HTMLicon2.png") [HTML](HTML_Path.md)
+![HTMLicon2.png](../files/img/HTMLicon2.png "HTMLicon2.png") [HTML](HTML_Path.md)
 
   - 
     
@@ -44,7 +44,7 @@
 
 #### Python
 
-![../files/snakesicon.png](../files/snakesicon.png "../files/snakesicon.png") [Python](Python.md)
+![snakesicon.png](../files/img/snakesicon.png "snakesicon.png") [Python](Python.md)
 
   - 
     
@@ -61,7 +61,7 @@ language.
 
 #### JavaScript
 
-![ link=JavaScript Path|left|100px](../files/Javascript-tut-icon.png
+![ link=JavaScript Path|left|100px](../files/img/Javascript-tut-icon.png
 " link=JavaScript Path|left|100px") [Javascript](JavaScript_Path.md)
 
   - 
@@ -79,7 +79,7 @@ language.
 
 #### Ruby
 
-![../files/rubyicon.png](../files/rubyicon.png "../files/rubyicon.png") [Ruby](Ruby.md)
+![rubyicon.png](../files/img/rubyicon.png "rubyicon.png") [Ruby](Ruby.md)
 
   - 
     
@@ -95,7 +95,7 @@ Ruby.
 
 #### Perl
 
-![ link=Perl|100px](../files/Perlicon.png " link=Perl|100px") [Perl](Perl.md)
+![ link=Perl|100px](../files/img/Perlicon.png " link=Perl|100px") [Perl](Perl.md)
 
   - 
     
@@ -111,8 +111,8 @@ here\!
 
 #### Minecraft
 
-![Kata\_banners\_minecrafticon.png](../files/Kata_banners_minecrafticon.png
-"../files/Kata_banners_minecrafticon.png") [Minecraft](MINECRAFT.md)
+![Kata\_banners\_minecrafticon.png](../files/img/Kata_banners_minecrafticon.png
+"Kata_banners_minecrafticon.png") [Minecraft](MINECRAFT.md)
 
   - 
     
@@ -128,7 +128,7 @@ MINECRAFT\!
 
 #### Basic Principles
 
-![ link=Basic principles|100px](../files/basicicon.png
+![ link=Basic principles|100px](../files/img/basicicon.png
 " link=Basic principles|100px") [Principles](Basic_principles.md)
 
   - 
@@ -145,7 +145,7 @@ here
 
 #### Common Lisp
 
-![../files/lisp.png](../files/lisp.png "../files/lisp.png") [Common Lisp](Common_Lisp.md)
+![lisp.png](../files/img/lisp.png "lisp.png") [Common Lisp](Common_Lisp.md)
 
   - 
     

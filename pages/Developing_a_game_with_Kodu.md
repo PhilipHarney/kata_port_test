@@ -1,5 +1,5 @@
-![../files/Microsofticon.png](../files/Microsofticon.png "../files/Microsofticon.png")
-![Kodu\_large.jpg](../files/Kodu_large.jpg "../files/Kodu_large.jpg")
+![Microsofticon.png](../files/img/Microsofticon.png "Microsofticon.png")
+![Kodu\_large.jpg](../files/img/Kodu_large.jpg "Kodu_large.jpg")
 
 These Sushi cards have been created by Microsoft for the CoderDojo
 community to help young people learn game programming with Kodu Game

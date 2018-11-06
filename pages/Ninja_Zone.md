@@ -8,7 +8,7 @@ code\!
 
 ### The Arcade
 
-![Arcade\_icon.png](../files/Arcade_icon.png "../files/Arcade_icon.png")
+![Arcade\_icon.png](../files/img/Arcade_icon.png "Arcade_icon.png")
 [Arcade](Arcade.md)
 
   - 
@@ -25,8 +25,8 @@ code\!
 
 ### Dojo Game
 
-![Kata\_banners\_dojogame\_icon.png](../files/Kata_banners_dojogame_icon.png
-"../files/Kata_banners_dojogame_icon.png") [Dojogame](Dojogame.md)
+![Kata\_banners\_dojogame\_icon.png](../files/img/Kata_banners_dojogame_icon.png
+"Kata_banners_dojogame_icon.png") [Dojogame](Dojogame.md)
 
   - 
     

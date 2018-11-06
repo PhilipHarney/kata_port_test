@@ -35,7 +35,7 @@ open-source [Gimp](http://www.gimp.org) il quale presenta questo
 pannello dedicato ai colori da dove è possibile leggere o impostare i
 valori desiderati:
 
-![ 320px](../files/Bitmap_03.png " 320px")
+![ 320px](../files/img/Bitmap_03.png " 320px")
 
   - Se il colore è già impostato i tre valori saranno visualizzati negli
     spazi indicati

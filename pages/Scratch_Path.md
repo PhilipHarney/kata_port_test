@@ -1,4 +1,4 @@
-<onlyinclude><includeonly>![Scratch Logo](../files/Scratch_logo.png
+<onlyinclude><includeonly>![Scratch Logo](../files/img/Scratch_logo.png
 "Scratch Logo")
 
 <div style="clear: both; height:10px;">

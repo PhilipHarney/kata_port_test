@@ -47,16 +47,16 @@ link at bottom of this page)
     line the graphic up exactly with the bottom and left side of the
     window.
 
-![Scratch1.PNG](Scratch1.PNG "Scratch1.PNG")
+![Scratch1.PNG](../files/img/Scratch1.PNG "Scratch1.PNG")
 
   - Click on “Ok”
   - In the main scratch window, rename the sprite to “wall1”
 
-![Scratch2.PNG](Scratch2.PNG "Scratch2.PNG")
+![Scratch2.PNG](../files/img/Scratch2.PNG "Scratch2.PNG")
 
   - Add the following script to the “wall1” sprite
 
-![Scratch3.PNG](Scratch3.PNG "Scratch3.PNG")
+![Scratch3.PNG](../files/img/Scratch3.PNG "Scratch3.PNG")
 
 **Note** The important thing here is the “y position”, at -150 this
 moves this sprite to the bottom of the screen. If you have a larger
@@ -87,7 +87,7 @@ horizontal scrolling; you need **TWO** sprites to make the effect work.
   - Rename this sprite to “wall2”.
   - Add the following script block to sprite “wall2”
 
-![Scratch4.PNG](Scratch4.PNG "Scratch4.PNG")
+![Scratch4.PNG](../files/img/Scratch4.PNG "Scratch4.PNG")
 
   - Click on the “green flag” to run the game.
 
@@ -110,7 +110,7 @@ Using the instruction above, we can reproduce this effect on scratch.
   - \!Rename this sprite to “mountains1”.
   - Add the following script block to sprite “mountains1”.
 
-![Scratch5.PNG](Scratch5.PNG "Scratch5.PNG")
+![Scratch5.PNG](../files/img/Scratch5.PNG "Scratch5.PNG")
 
   - Click on the “green flag” to start the game.
 
@@ -130,7 +130,7 @@ the wall. You can experiment with this to get different speeds.
   - Rename this sprite to “mountains2”.
   - Add the following script block to sprite “mountains2”.
 
-![Scratch6.PNG](Scratch6.PNG "Scratch6.PNG")
+![Scratch6.PNG](../files/img/Scratch6.PNG "Scratch6.PNG")
 
   - Click on the “Green flag” to start the game.
 

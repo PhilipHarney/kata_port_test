@@ -34,7 +34,7 @@ and
     [Outrun@codeincomplete.com](http://codeincomplete.com/posts/2012/6/22/javascript_racer/)
 
 `Play the Game `[`1`](http://codeincomplete.com/projects/racer/v4.final.html)  
-![`../files/Outrun.v283.jpg`](../files/Outrun.v283.jpg "../files/Outrun.v283.jpg")
+![`Outrun.v283.jpg`](../files/img/Outrun.v283.jpg "Outrun.v283.jpg")
 
   - Gauntlet [2](http://codeincomplete.com/games/)
   - Gameboy Emulator
@@ -42,7 +42,7 @@ and
     <http://www.html5canvastutorials.com/cookbook/#ch8>
 
 `Play the game `[`3`](http://www.html5canvastutorials.com/cookbook/ch8/index.html)  
-![`../files/Karate.png`](../files/Karate.png "../files/Karate.png")
+![`Karate.png`](../files/img/Karate.png "Karate.png")
 
   - Make a simple html5 game with box2d in javascript – tutorial on
     basics

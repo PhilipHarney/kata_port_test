@@ -6,7 +6,7 @@ the page.
 
 ## Content
 
-![centre|800px|](../files/Snowjo.png "centre|800px|")
+![centre|800px|](../files/img/Snowjo.png "centre|800px|")
 
 ### SnowJo
 

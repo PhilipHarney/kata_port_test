@@ -6,7 +6,7 @@ code\!
 
 ### Beginner Arcade
 
-![Beginner\_Resource.png](../files/Beginner_Resource.png "../files/Beginner_Resource.png")
+![Beginner\_Resource.png](../files/img/Beginner_Resource.png "Beginner_Resource.png")
 [Beginner Arcade](Beginner_Arcade.md)
 
   - 
@@ -23,7 +23,7 @@ games\!
 
 ### Intermediate Arcade
 
-![ link=Intermediate Arcade|left|100px](../files/Intermediate_Resourcesicon.png
+![ link=Intermediate Arcade|left|100px](../files/img/Intermediate_Resourcesicon.png
 " link=Intermediate Arcade|left|100px") [Intermediate
 Arcade](Intermediate_Arcade.md)
 

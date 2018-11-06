@@ -38,7 +38,7 @@ help.
 
 # Ruby
 
-![../files/Try-ruby.png](../files/Try-ruby.png "../files/Try-ruby.png")
+![Try-ruby.png](../files/img/Try-ruby.png "Try-ruby.png")
 
 Ruby is a programming language from Japan (available at ruby-lang.org)
 which is revolutionising the web. The beauty of Ruby is found in its
@@ -49,8 +49,8 @@ You can check out Try Ruby
 
 ## Why's Poignant Guide to Ruby
 
-![Whys\_poignant\_guide.jpg](../files/Whys_poignant_guide.jpg
-"../files/Whys_poignant_guide.jpg")
+![Whys\_poignant\_guide.jpg](../files/img/Whys_poignant_guide.jpg
+"Whys_poignant_guide.jpg")
 
 Why the lucky stiff (often abbreviated to Why or \_why), was until 2009,
 a prolific writer, cartoonist, artist, and computer programmer notable
@@ -157,7 +157,7 @@ notes to get you started.
 
 <!-- end list -->
 
-  - ![../files/InventWithPython.png](../files/InventWithPython.png "../files/InventWithPython.png")
+  - ![InventWithPython.png](../files/img/InventWithPython.png "InventWithPython.png")
     [invent with python](http://inventwithpython.com/chapters/)
 
 The book and the programs are open source, and are available under a

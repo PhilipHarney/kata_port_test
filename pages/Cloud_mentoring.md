@@ -2,7 +2,7 @@
 
 ### About Cloud Mentoring
 
-![../files/CloudKataIcon.png](../files/CloudKataIcon.png "../files/CloudKataIcon.png") [About Cloud
+![CloudKataIcon.png](../files/img/CloudKataIcon.png "CloudKataIcon.png") [About Cloud
 Mentoring](Cloud_Mentoring_Kata.md)
 
   - 
@@ -19,7 +19,7 @@ here\!
 
 ### History and Motivation
 
-![ link=Cloud Motivation|left|100px](../files/HistoryCloudIcon.png
+![ link=Cloud Motivation|left|100px](../files/img/HistoryCloudIcon.png
 " link=Cloud Motivation|left|100px") [Cloud Motivation](Cloud_Motivation.md)
 
   - 
@@ -36,7 +36,7 @@ Learning\!
 
 ### Frequently Asked Questions
 
-![ link=Cloud FAQ|left|100px](../files/FAQicon.png " link=Cloud FAQ|left|100px")
+![ link=Cloud FAQ|left|100px](../files/img/FAQicon.png " link=Cloud FAQ|left|100px")
 [Cloud FAQ](Cloud_FAQ.md)
 
   - 

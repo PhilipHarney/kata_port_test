@@ -1,4 +1,4 @@
-![../files/Coderdojoscot.png](../files/Coderdojoscot.png "../files/Coderdojoscot.png")
+![Coderdojoscot.png](../files/img/Coderdojoscot.png "Coderdojoscot.png")
 
 CoderDojo Scotland is an informal regional group starting more Dojos
 across the country monthly. CoderDojo Scotland was initially formed

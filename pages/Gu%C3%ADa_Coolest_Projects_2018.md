@@ -1,5 +1,5 @@
-![Guide\_Coolest\_Projects\_2018\_ES.jpg](../files/Guide_Coolest_Projects_2018_ES.jpg
-"../files/Guide_Coolest_Projects_2018_ES.jpg")
+![Guide\_Coolest\_Projects\_2018\_ES.jpg](../files/img/Guide_Coolest_Projects_2018_ES.jpg
+"Guide_Coolest_Projects_2018_ES.jpg")
 
 [Guía Coolest Projects 2018_ES.pdf](../files/Guía Coolest Projects 2018_ES.pdf)
 

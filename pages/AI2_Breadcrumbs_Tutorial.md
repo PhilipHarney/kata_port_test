@@ -42,7 +42,7 @@ represent the controls used.
 The tables beneath the diagram explain the name and function of each of
 the components used by the App.
 
-![App Layout](../files/Ai2_Breadcrumbs_Layout.png "App Layout")
+![App Layout](../files/img/Ai2_Breadcrumbs_Layout.png "App Layout")
 
 ## Start\\Stop dropping Breadcrumbs.
 
@@ -145,7 +145,7 @@ no point in keeping track on anything.
 See Figure 1 below which performs this initial setup and is run as soon
 as the app is started. Moving the Setup code into a procedure allows us
 to re-run it again when needed, i.e. if we reset the trail and want to
-restart the app ![Figure 1](../files/Ai2_Breadcrumbs_Figure1.png "Figure 1")
+restart the app ![Figure 1](../files/img/Ai2_Breadcrumbs_Figure1.png "Figure 1")
 
 As we run this code to set things up, the LocationSensor component
 automatically gets triggered at start up. When it starts (and every time
@@ -158,7 +158,7 @@ labels as we have not yet locked in the initial location. Once the
 initial location has been locked we no longer need to update the Initial
 Coordinate labels, so we just do the current labels.
 
-![Figure 2](Ai2_Breadcrumbs_Figure2.PNG "Figure 2")
+![Figure 2](../files/img/Ai2_Breadcrumbs_Figure2.PNG "Figure 2")
 
 Once we’re ready to start dropping the crumbs, we click the Unlocked
 button. Capturing this event (See Figure 3) allows us to enable all of
@@ -172,7 +172,7 @@ dropped. Clicking this button will reset everything back to the way it
 when the app was started. As we’ve already added that code to our Setup
 procedure we don’t need to repeat the code, we just call Setup
 
-![Figure 3](Ai2_Breadcrumbs_Figure3.PNG "Figure 3")
+![Figure 3](../files/img/Ai2_Breadcrumbs_Figure3.PNG "Figure 3")
 
 ## Dropping the breadcrumbs
 
@@ -188,7 +188,7 @@ also gets called every time the user taps to DropBreadcrumbs button.
 Our procedure has 3 parameters: The Address we want to record, and the
 Latitude and Longitude.
 
-![Figure 4](Ai2_Breadcrumbs_Figure4.PNG "Figure 4")
+![Figure 4](../files/img/Ai2_Breadcrumbs_Figure4.PNG "Figure 4")
 
 It first checks to make sure we haven’t already recorded this location,
 if we haven’t then it’s a new location and we can go ahead and record
@@ -211,7 +211,7 @@ the ListView to show the number of crumbs dropped so far. As the text on
 the ListView component shows the number of crumbs dropped, we can’t use
 this for getting directions so we disable that Button for now.
 
-![Figure 5](Ai2_Breadcrumbs_Figure5.PNG "Figure 5")
+![Figure 5](../files/img/Ai2_Breadcrumbs_Figure5.PNG "Figure 5")
 
 Now, as we move around with our device, the LocationSensor will continue
 to detect movement, the code in Figure 2 above will continue to fire and
@@ -243,12 +243,12 @@ from this list changes the display from showing the number of
 breadcrumbs dropped, to showing the text associated with the entry
 selected from the list.
 
-![Figure 6](Ai2_Breadcrumbs_Figure6.PNG "Figure 6")
+![Figure 6](../files/img/Ai2_Breadcrumbs_Figure6.PNG "Figure 6")
 
 Now when we tap the GetDirections button, we’ll pass the value that’s
 displayed on our LIstView control to another Procedure called ShowMap.
 
-![Figure 7](Ai2_Breadcrumbs_Figure7.PNG "Figure 7")
+![Figure 7](../files/img/Ai2_Breadcrumbs_Figure7.PNG "Figure 7")
 
 This procedure gets the text value that we associated with the address
 entry, which is passed to the ActivityStarter component which allows our

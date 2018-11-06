@@ -1,7 +1,7 @@
 <https://github.com/Techbot/template010>
 
-  - ![../files/login.png](../files/login.png
-"../files/login.png")
+  - ![login.png](../files/img/login.png
+"login.png")
 
 `   For coderdojo kata technical support register @ `<https://groups.google.com/forum/?hl=en#!forum/kata-coderdojo>
 

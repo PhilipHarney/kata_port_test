@@ -7,7 +7,7 @@ Mentors\!\!
 
 ### Background
 
-![../files/inforewardsIcon.png](../files/inforewardsIcon.png "../files/inforewardsIcon.png")
+![inforewardsIcon.png](../files/img/inforewardsIcon.png "inforewardsIcon.png")
 [Background](Awards_Information.md)
 
   - 
@@ -24,7 +24,7 @@ here\!
 
 ### Belt Awarding Principles
 
-![ link=Belt Awarding Principles|left|100px](../files/beltawardicon.png
+![ link=Belt Awarding Principles|left|100px](../files/img/beltawardicon.png
 " link=Belt Awarding Principles|left|100px") [Belt Awarding
 Principles](Belt_Awarding_Principles.md)
 
@@ -42,7 +42,7 @@ belts\!
 
 ### Awarding Belts
 
-![../files/beltsicon.png](../files/beltsicon.png "../files/beltsicon.png") [Awarding
+![beltsicon.png](../files/img/beltsicon.png "beltsicon.png") [Awarding
 Belts](Awarding_Belts.md)
 
   - 
@@ -59,7 +59,7 @@ here\!
 
 ### Sample Certificate of Achievement
 
-![ link=Sample Certificate of Achievement|left|100px](../files/Certicon.png
+![ link=Sample Certificate of Achievement|left|100px](../files/img/Certicon.png
 " link=Sample Certificate of Achievement|left|100px") [Sample
 Certificate of Achievement](Sample_Certificate_of_Achievement.md)
 
@@ -77,7 +77,7 @@ download\!
 
 ### Mozilla Open Badges
 
-![../files/BadgeIcon.png](../files/BadgeIcon.png "../files/BadgeIcon.png") [Mozilla Open
+![BadgeIcon.png](../files/img/BadgeIcon.png "BadgeIcon.png") [Mozilla Open
 Badges](Mozilla_Open_Badges.md)
 
   - 

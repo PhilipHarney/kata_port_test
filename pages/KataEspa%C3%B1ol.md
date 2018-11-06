@@ -1,5 +1,5 @@
-![../files/SpanishBannernewest22222.png](../files/SpanishBannernewest22222.png
-"../files/SpanishBannernewest22222.png")
+![SpanishBannernewest22222.png](../files/img/SpanishBannernewest22222.png
+"SpanishBannernewest22222.png")
 
 ## Coolest Projects
 

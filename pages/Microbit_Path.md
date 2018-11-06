@@ -1,4 +1,4 @@
-<onlyinclude><includeonly>![Microbit Logo](../files/Microbit-2242373_640.jpg
+<onlyinclude><includeonly>![Microbit Logo](../files/img/Microbit-2242373_640.jpg
 "Microbit Logo")
 
 <div style="clear: both; height:10px;">

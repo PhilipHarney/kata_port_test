@@ -1,4 +1,4 @@
-<onlyinclude><includeonly>![PHP Logo](../files/Php_logo.png "PHP Logo")
+<onlyinclude><includeonly>![PHP Logo](../files/img/Php_logo.png "PHP Logo")
 
 <div style="clear: both; height:10px;">
 

@@ -68,7 +68,7 @@ necessari, servono per chiarire cosa fa il comando scritto subito dopo.
 Con grande sorpresa, una volta eseguito il programma, ecco cosa si
 otterrebbe: semplicemente una finestra vuota\!
 
-![Gameloop\_01.jpg](../files/Gameloop_01.jpg "../files/Gameloop_01.jpg")
+![Gameloop\_01.jpg](../files/img/Gameloop_01.jpg "Gameloop_01.jpg")
 
 Lo scopo di questo programma è però un altro: serve per far capire quali
 sono i comandi per creare una finestra grafica che per ora è vuota, ma

@@ -4,7 +4,7 @@
 
 ### ECHO
 
-![../files/ECHOicon.png](../files/ECHOicon.png "../files/ECHOicon.png")
+![ECHOicon.png](../files/img/ECHOicon.png "ECHOicon.png")
 
   - 
     
@@ -19,7 +19,7 @@
 
 ### Warm Up Games
 
-![Dice\_Icon.png](../files/Dice_Icon.png "../files/Dice_Icon.png") [Warm Up
+![Dice\_Icon.png](../files/img/Dice_Icon.png "Dice_Icon.png") [Warm Up
 Games](Warm_up_Games.md)
 
   - 
@@ -37,7 +37,7 @@ Dojo\!
 
 ### Philosophy Videos
 
-![ link=Philosophy Videos](../files/PhilVideosicon.png " link=Philosophy Videos")
+![ link=Philosophy Videos](../files/img/PhilVideosicon.png " link=Philosophy Videos")
 [Philosophy Videos](Philosophy_Videos.md)
 
   - 
@@ -54,7 +54,7 @@ here\!
 
 ### Inclusion Statement
 
-![ link=Inclusion Statement](../files/Inclusion_Policy_Icon.png
+![ link=Inclusion Statement](../files/img/Inclusion_Policy_Icon.png
 " link=Inclusion Statement") [Inclusion Statement](Inclusion_Statement.md)
 
   - 
@@ -71,8 +71,8 @@ here\!
 
 ### CoderDojo Girls
 
-![Coderdojogirls\_icon.png](../files/Coderdojogirls_icon.png
-"../files/Coderdojogirls_icon.png") [CoderDojo Girls](CoderDojo_Girls.md)
+![Coderdojogirls\_icon.png](../files/img/Coderdojogirls_icon.png
+"Coderdojogirls_icon.png") [CoderDojo Girls](CoderDojo_Girls.md)
 
   - 
     

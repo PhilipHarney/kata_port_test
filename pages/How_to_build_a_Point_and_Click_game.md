@@ -15,7 +15,7 @@ This project is very much a work-in-progress at the moment. Large parts
 of the intended functionality is still incomplete. Right now it should
 be seen more at a proof-of-concept than a finished system.
 
-![../files/sdc.png](../files/sdc.png "../files/sdc.png")
+![sdc.png](../files/img/sdc.png "sdc.png")
 
   - \[A point 'n click php Game on
     Github|<https://github.com/Spudley/sdcAdventure>\]

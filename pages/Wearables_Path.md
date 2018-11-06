@@ -1,4 +1,4 @@
-<onlyinclude><includeonly>![Sewable LED](../files/Wearables.png "Sewable LED")
+<onlyinclude><includeonly>![Sewable LED](../files/img/Wearables.png "Sewable LED")
 
 <div style="clear: both; height:10px;">
 

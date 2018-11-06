@@ -18,4 +18,4 @@ find their own.
 
 The image of the chicken-o-saurus can also be downloaded below:
 
-![Chicken.JPG](Chicken.JPG "Chicken.JPG")
+![Chicken.JPG](../files/img/Chicken.JPG "Chicken.JPG")

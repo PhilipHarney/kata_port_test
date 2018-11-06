@@ -1,4 +1,4 @@
-<onlyinclude><includeonly>![Arduino Logo](../files/Arduino_Logo.png
+<onlyinclude><includeonly>![Arduino Logo](../files/img/Arduino_Logo.png
 "Arduino Logo")
 
 <div style="clear: both; height:10px;">

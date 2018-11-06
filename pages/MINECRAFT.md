@@ -10,7 +10,7 @@ unlimited resources to build with and the ability to fly, and an
 adventure mode where players play custom maps created by other players.
 
 Click on the picture to start playing Minecraft\! ![ centre|
-link=<https://minecraft.net/>](../files/Minecraft-logo-transparent-background-h0u33oaq.jpg
+link=<https://minecraft.net/>](../files/img/Minecraft-logo-transparent-background-h0u33oaq.jpg
 " centre| link=https://minecraft.net/")
 
 ## PDF Books on Minecraft
@@ -59,7 +59,7 @@ Github
 
 ## Dojos using Minecraft
 
-![Minecraft\_game.jpg](../files/Minecraft_game.jpg "../files/Minecraft_game.jpg") "At
+![Minecraft\_game.jpg](../files/img/Minecraft_game.jpg "Minecraft_game.jpg") "At
 Science Gallery we had a group of seven very enthusiastic children who
 made mods to Minecraft Java code, starting with tutorials on youTube.
 They helped each other with tasks like installing Eclipse and

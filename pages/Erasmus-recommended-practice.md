@@ -17,7 +17,7 @@ moving.
 
 ### Mentor Recruitment
 
-![ link=Mentor Recruitment](../files/volunteersicon.png
+![ link=Mentor Recruitment](../files/img/volunteersicon.png
 " link=Mentor Recruitment") [Mentor Recruitment](mentor-recruitment.md)
 
   - 

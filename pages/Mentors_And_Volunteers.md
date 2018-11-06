@@ -7,7 +7,7 @@ field\!
 
 ### Mentor & Volunteer Information
 
-![../files/mentorIcon.png](../files/mentorIcon.png "../files/mentorIcon.png") [Mentors & Volunteers
+![mentorIcon.png](../files/img/mentorIcon.png "mentorIcon.png") [Mentors & Volunteers
 Information](Mentors_and_Volunteers_Information.md)
 
   - 
@@ -24,7 +24,7 @@ here\!
 
 ### How to find Mentors and Volunteers
 
-![ link=Find Mentors and Volunteers|left|100px](../files/HowtoIcon.png
+![ link=Find Mentors and Volunteers|left|100px](../files/img/HowtoIcon.png
 " link=Find Mentors and Volunteers|left|100px") [Find Mentors and
 Volunteers](Find_Mentors_and_Volunteers.md)
 
@@ -43,7 +43,7 @@ here\!
 
 ### Cloud Mentoring
 
-![../files/cloudicon.png](../files/cloudicon.png "../files/cloudicon.png") [Cloud
+![cloudicon.png](../files/img/cloudicon.png "cloudicon.png") [Cloud
 mentoring](Cloud_mentoring.md)
 
   - 
@@ -60,7 +60,7 @@ mentoring\!
 
 ### Mentor Guide
 
-![Mentor\_Guideicon.png](../files/Mentor_Guideicon.png "../files/Mentor_Guideicon.png")
+![Mentor\_Guideicon.png](../files/img/Mentor_Guideicon.png "Mentor_Guideicon.png")
 [Mentor Guide](Mentor_Guide.md)
 
   - 
@@ -77,7 +77,7 @@ here\!
 
 ### PowerfulPlay Campaign
 
-![../files/ppcIcon.png](../files/ppcIcon.png "../files/ppcIcon.png") [PowerfulPlay
+![ppcIcon.png](../files/img/ppcIcon.png "ppcIcon.png") [PowerfulPlay
 Campaign](PowerfulPlay_Campaign.md)
 
   - 
@@ -94,7 +94,7 @@ here\!
 
 ### Tips on Running your Dojo
 
-![../files/Tipsicon.png](../files/Tipsicon.png "../files/Tipsicon.png") [Tips\!](Tips_Running_Dojo.md)
+![Tipsicon.png](../files/img/Tipsicon.png "Tipsicon.png") [Tips\!](Tips_Running_Dojo.md)
 
   - 
     

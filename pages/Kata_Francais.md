@@ -1,4 +1,4 @@
-![ center | link=Kata Francais](../files/FrenchKata.png
+![ center | link=Kata Francais](../files/img/FrenchKata.png
 " center | link=Kata Francais")
 
 # Bienvenue sur la version française du Kata\!

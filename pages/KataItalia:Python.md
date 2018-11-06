@@ -2,7 +2,7 @@
 
 # Dojo Tutorials
 
-![Python](../files/Kata_banners.png
+![Python](../files/img/Kata_banners.png
 "Python")
 
 | Topic  | Full Title                                                                                   | Dojo                                           | Presented By  | Level    | Language | Description                                                                                                                                                                                                                                                  | Type         | Category |
@@ -11,5 +11,5 @@
 | Python | **[Python – Arduino Esplora](http://coderdojomilano.it/tutorial-python-e-arduino-esplora/)** | CoderDojo [Milano](http://coderdojomilano.it/) | Stefano Ricci | Beginner | Italian  | Comandiamo Esplora con Python                                                                                                                                                                                                                                | Dojo Created | Tutorial |
 |        |                                                                                              |                                                |               |          |          |                                                                                                                                                                                                                                                              |              |          |
 
-![../files/python-logo-master-v3-TM.png](../files/python-logo-master-v3-TM.png
-"../files/python-logo-master-v3-TM.png")
+![python-logo-master-v3-TM.png](../files/img/python-logo-master-v3-TM.png
+"python-logo-master-v3-TM.png")

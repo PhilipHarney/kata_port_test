@@ -30,13 +30,13 @@ Note :
 If you click on the costume tab for the cat sprite you will see that
 there are 2 costumes.
 
-![../files/costume1.png](../files/costume1.png "../files/costume1.png")
+![costume1.png](../files/img/costume1.png "costume1.png")
 
 This script will switch between the two to make the cat look like it is
 walking. The wait is put in to slow down the switch between the
 costumes.
 
-![../files/costume.png](../files/costume.png "../files/costume.png")
+![costume.png](../files/img/costume.png "costume.png")
 
 -----
 
@@ -46,7 +46,7 @@ Note : For 2 seconds a speech bubble will appear about the sprites head
 with 'Hello' in it. You can change the number of seconds by clicking on
 the 2 and changing.
 
-![../files/say.png](../files/say.png "../files/say.png")
+![say.png](../files/img/say.png "say.png")
 
 -----
 
@@ -56,7 +56,7 @@ Note : For 2 seconds a thought bubble will appear about the sprites head
 with 'Hmmm ...' in it. You can change the number of seconds by clicking
 on the 2 and changing.
 
-![../files/think.png](../files/think.png "../files/think.png")
+![think.png](../files/img/think.png "think.png")
 
 -----
 
@@ -67,7 +67,7 @@ Note : There are 200 colours so by changing the colour effect by 25 8
 times the character finishes at the colour that it started as. Try
 changing the 25 to 1 and the 8 to 200 to see all 200 colours.
 
-![../files/colour.png](../files/colour.png "../files/colour.png")
+![colour.png](../files/img/colour.png "colour.png")
 
 -----
 
@@ -78,7 +78,7 @@ Note : The fisheye effect makes the character look like it would through
 a wide angle lens. The 'set fisheye effect to 0' at the end is used to
 reset the character back to normal.
 
-![../files/fisheye.png](../files/fisheye.png "../files/fisheye.png")
+![fisheye.png](../files/img/fisheye.png "fisheye.png")
 
 -----
 
@@ -89,7 +89,7 @@ Note : The whirl effect makes the character whirl around its central
 point. The 'set whirl effect to 0' at the end is used to reset the
 character back to normal.
 
-![../files/whirl.png](../files/whirl.png "../files/whirl.png")
+![whirl.png](../files/img/whirl.png "whirl.png")
 
 -----
 
@@ -100,7 +100,7 @@ Note : The pixelate effect makes the character pixelated. The 'set
 pixelate effect to 0' at the end is used to reset the character back to
 normal.
 
-![../files/pixelate.png](../files/pixelate.png "../files/pixelate.png")
+![pixelate.png](../files/img/pixelate.png "pixelate.png")
 
 -----
 
@@ -111,7 +111,7 @@ Note : The mosaic effect makes lots of small copies of the character.
 The 'set mosaic effect to 0' at the end is used to reset the character
 back to normal.
 
-![../files/mosaic.png](../files/mosaic.png "../files/mosaic.png")
+![mosaic.png](../files/img/mosaic.png "mosaic.png")
 
 -----
 
@@ -121,7 +121,7 @@ is pressed '''
 Note : The 'set brightness effect to 0' at the end is used to reset the
 character back to normal.
 
-![../files/brightness.png](../files/brightness.png "../files/brightness.png")
+![brightness.png](../files/img/brightness.png "brightness.png")
 
 -----
 
@@ -131,7 +131,7 @@ pressed '''
 Note : The ghost effect fades the sprite in and out. The 'set brightness
 effect to 0' at the end is used to reset the character back to normal.
 
-![../files/ghost.png](../files/ghost.png "../files/ghost.png")
+![ghost.png](../files/img/ghost.png "ghost.png")
 
 -----
 
@@ -144,4 +144,4 @@ You can put all of the above code snippets into one script for a
 character and change the look of the character depending on what key has
 been pressed
 
-![../files/Looksbasics.png](../files/Looksbasics.png "../files/Looksbasics.png")
+![Looksbasics.png](../files/img/Looksbasics.png "Looksbasics.png")

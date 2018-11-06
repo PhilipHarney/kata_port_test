@@ -30,7 +30,7 @@ sequenza (prima scrivendo il numero e poi calcolando il quadrato).
 
 # Selezione
 
-![Costrutti\_01.jpg](../files/Costrutti_01.jpg "../files/Costrutti_01.jpg")
+![Costrutti\_01.jpg](../files/img/Costrutti_01.jpg "Costrutti_01.jpg")
 
   - Le istruzioni di una selezione vengono eseguite solo se si verifica
     una particolare condizione.
@@ -41,7 +41,7 @@ sequenza (prima scrivendo il numero e poi calcolando il quadrato).
     escludono a vicenda (o viene eseguito il primo blocco oppure il
     secondo, mai tutti e due)
 
-![Costrutti\_02.jpg](../files/Costrutti_02.jpg "../files/Costrutti_02.jpg")
+![Costrutti\_02.jpg](../files/img/Costrutti_02.jpg "Costrutti_02.jpg")
 
   - Per decidere quale dei due blocchi va eseguito è sempre presente una
     condizione introdotta dal comando if e chiusa dal carattere “:”
@@ -66,7 +66,7 @@ delle decisioni e rispondere ai controlli previsti.
 Ad esempio, inserendo due numeri diversi il programma potrebbe
 rispondere in due modi diversi, come nel seguente esempio:
 
-![Costrutti\_03.jpg](../files/Costrutti_03.jpg "../files/Costrutti_03.jpg")
+![Costrutti\_03.jpg](../files/img/Costrutti_03.jpg "Costrutti_03.jpg")
 
 Come si può notare il messaggio visualizzato cambia a seconda del numero
 inserito.
@@ -86,7 +86,7 @@ L'ultimo costrutto fondamentale è la ripetizione: spesso è utile
 ripetere un blocco di istruzioni,che possono essere sia delle sequenze
 che delle selezioni.
 
-![Costrutti\_04.jpg](../files/Costrutti_04.jpg "../files/Costrutti_04.jpg")
+![Costrutti\_04.jpg](../files/img/Costrutti_04.jpg "Costrutti_04.jpg")
 
   - La ripetizione è composta da un numero di comandi da svolgere e da
     una condizione che controlla quante volte i comandi devono essere
@@ -99,4 +99,4 @@ che delle selezioni.
     giocatrice decidano di spegnerlo; in questo caso la condizione di
     ripetizione è infinita.
 
-![Costrutti\_05.jpg](../files/Costrutti_05.jpg "../files/Costrutti_05.jpg")
+![Costrutti\_05.jpg](../files/img/Costrutti_05.jpg "Costrutti_05.jpg")

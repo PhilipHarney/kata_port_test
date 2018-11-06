@@ -13,7 +13,7 @@ coders and digital creators\!
 **Download editable version and add your native language
 [here](../files/CoderDojo_Powerfulplay.pptx).**
 
-![centre|#powerfulplay](../files/CoderDojo_superpower_banner.jpg
+![centre|#powerfulplay](../files/img/CoderDojo_superpower_banner.jpg
 "centre|#powerfulplay")
 
 We plan to get as many people as we can to help us spread the word by
@@ -38,12 +38,12 @@ here](https://coderdojo.com/powerfulplay/).
 
 ## Campaign Posters
 
-![\#powerfulplay](../files/CoderDojo_superpower_girl1.jpg "#powerfulplay")
-![\#powerfulplay](../files/CoderDojo_superpower_girl2a.jpg "#powerfulplay")
+![\#powerfulplay](../files/img/CoderDojo_superpower_girl1.jpg "#powerfulplay")
+![\#powerfulplay](../files/img/CoderDojo_superpower_girl2a.jpg "#powerfulplay")
 
-![centre|\#powerfulplay](../files/CoderDojo_superpower_mentor.jpg
+![centre|\#powerfulplay](../files/img/CoderDojo_superpower_mentor.jpg
 "centre|#powerfulplay")
-![centre|\#powerfulplay](../files/CoderDojo_superpower_teenager.jpg
+![centre|\#powerfulplay](../files/img/CoderDojo_superpower_teenager.jpg
 "centre|#powerfulplay")
 
 ## Translations

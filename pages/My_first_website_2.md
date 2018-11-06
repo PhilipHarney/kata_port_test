@@ -47,14 +47,14 @@ learner Card 1.
 
 ### Individual cards
 
-![Card 1 Edit a web page](../files/Card-01_-ling.png "Card 1 Edit a web page")
-![Card 2 Make a new web page](../files/Card-02-ling.png
+![Card 1 Edit a web page](../files/img/Card-01_-ling.png "Card 1 Edit a web page")
+![Card 2 Make a new web page](../files/img/Card-02-ling.png
 "Card 2 Make a new web page") ![Card 3 Make the home
-page](../files/Card-03-ling.png "Card 3 Make the home page") ![Card 4 Add some
-style](../files/Card-04-ling.png "Card 4 Add some style") ![Card 5 Link the
-pages](../files/Card-05-ling.png "Card 5 Link the pages") ![Card 6 Style the top
-menu](../files/Card-06-ling.png "Card 6 Style the top menu") ![Card 7 Style the
-menu links](../files/Card-07-ling.png "Card 7 Style the menu links") ![Card 8
-Identify the menu](../files/Card-08-ling.png "Card 8 Identify the menu") ![Card 9
-Getting responsive](../files/Card-09-ling.png "Card 9 Getting responsive") ![Card
-10 Add a table](../files/Card-10-ling.png "Card 10 Add a table")
+page](../files/img/Card-03-ling.png "Card 3 Make the home page") ![Card 4 Add some
+style](../files/img/Card-04-ling.png "Card 4 Add some style") ![Card 5 Link the
+pages](../files/img/Card-05-ling.png "Card 5 Link the pages") ![Card 6 Style the top
+menu](../files/img/Card-06-ling.png "Card 6 Style the top menu") ![Card 7 Style the
+menu links](../files/img/Card-07-ling.png "Card 7 Style the menu links") ![Card 8
+Identify the menu](../files/img/Card-08-ling.png "Card 8 Identify the menu") ![Card 9
+Getting responsive](../files/img/Card-09-ling.png "Card 9 Getting responsive") ![Card
+10 Add a table](../files/img/Card-10-ling.png "Card 10 Add a table")

@@ -2,7 +2,7 @@
 
 ### Raspberry Pi Resources
 
-![../files/raspberryicon2.png](../files/raspberryicon2.png "../files/raspberryicon2.png")
+![raspberryicon2.png](../files/img/raspberryicon2.png "raspberryicon2.png")
 [Raspberry Pi Resources](Raspberry_Pi_Resource.md)
 
   - 
@@ -19,7 +19,7 @@ description
 
 ### Arduino Resources
 
-![ link=Arduino Resource|left|100px](../files/Arduino_Resourceicon.png
+![ link=Arduino Resource|left|100px](../files/img/Arduino_Resourceicon.png
 " link=Arduino Resource|left|100px") [Arduino Resources](Arduino_Resource.md)
 
   - 
@@ -35,7 +35,7 @@ description
 
 ### 3D Tools Resources
 
-![ link=3D Tools Resource|left|100px](../files/3D_Tools_Resource2.png
+![ link=3D Tools Resource|left|100px](../files/img/3D_Tools_Resource2.png
 " link=3D Tools Resource|left|100px") [3D Tools Resources](3D_Tools_Resource.md)
 
   - 

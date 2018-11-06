@@ -16,11 +16,11 @@ editor](https://scratch.mit.edu/) in advance of using these cards.
 Download the three images below and save them into a directory on the
 Ninja's machine.
 
-![../files/Wall.gif](../files/Wall.gif "../files/Wall.gif")
+![Wall.gif](../files/img/Wall.gif "Wall.gif")
 
-![../files/Mountains.gif](../files/Mountains.gif "../files/Mountains.gif")
+![Mountains.gif](../files/img/Mountains.gif "Mountains.gif")
 
-![../files/Background.gif](../files/Background.gif "../files/Background.gif")
+![Background.gif](../files/img/Background.gif "Background.gif")
 
 ## Content
 

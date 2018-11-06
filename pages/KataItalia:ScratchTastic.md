@@ -2,10 +2,10 @@
 
 # Scratch
 
-![ScratchTastic](../files/Kata_banners_scratch.png "ScratchTastic")
+![ScratchTastic](../files/img/Kata_banners_scratch.png "ScratchTastic")
 
-![Scratch\_cat\_large.png](../files/Scratch_cat_large.png
-"../files/Scratch_cat_large.png")
+![Scratch\_cat\_large.png](../files/img/Scratch_cat_large.png
+"Scratch_cat_large.png")
 
 **[Cos'è Scratch?](http://scratch.mit.edu/about/)**
 

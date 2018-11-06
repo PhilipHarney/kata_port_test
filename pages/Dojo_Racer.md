@@ -19,7 +19,7 @@ project and import it into Scratch on their machine.
 
 ### DojoRacer
 
-![../files/Scratch-car-racer.png](../files/Scratch-car-racer.png "../files/Scratch-car-racer.png")
+![Scratch-car-racer.png](../files/img/Scratch-car-racer.png "Scratch-car-racer.png")
 
 Greg Bulmash, Champion of CoderDojo Seattle, created a little racing
 game in Scratch.

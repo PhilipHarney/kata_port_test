@@ -13,7 +13,7 @@ worden.
 
 ### Sushi
 
-![../files/sushiiicon2.png](../files/sushiiicon2.png "../files/sushiiicon2.png")
+![sushiiicon2.png](../files/img/sushiiicon2.png "sushiiicon2.png")
 [KataDutch:Sushi](KataDutch:Sushi.md)
 
   - 
@@ -30,8 +30,8 @@ Kaarten
 
 ### Scratch
 
-![Kata\_scratch-icon3.png](../files/Kata_scratch-icon3.png
-"../files/Kata_scratch-icon3.png") [KataDutch:Scratch](KataDutch:Scratch.md)
+![Kata\_scratch-icon3.png](../files/img/Kata_scratch-icon3.png
+"Kata_scratch-icon3.png") [KataDutch:Scratch](KataDutch:Scratch.md)
 
   - 
     
@@ -46,7 +46,7 @@ Kaarten
 
 ### HTML
 
-![../files/HTMLicon2.png](../files/HTMLicon2.png "../files/HTMLicon2.png")
+![HTMLicon2.png](../files/img/HTMLicon2.png "HTMLicon2.png")
 [KataDutch:HTML](KataDutch:HTML.md)
 
   - 
@@ -62,7 +62,7 @@ Kaarten
 
 ### Javascript
 
-![ link=KataDutch:Javascript|left|100px](../files/Javascript-tut-icon.png
+![ link=KataDutch:Javascript|left|100px](../files/img/Javascript-tut-icon.png
 " link=KataDutch:Javascript|left|100px")
 [KataDutch:Javascript](KataDutch:Javascript.md)
 
@@ -79,7 +79,7 @@ Kaarten
 
 ### Autodesk Tinkercad
 
-![../files/Autodeskicon2.jpg](../files/Autodeskicon2.jpg "../files/Autodeskicon2.jpg") [Autodesk
+![Autodeskicon2.jpg](../files/img/Autodeskicon2.jpg "Autodeskicon2.jpg") [Autodesk
 Tinkercad](KataDutch:Autodesk_Tinkercad.md)
 
   - 
@@ -96,7 +96,7 @@ Tinkercad
 
 ### Minecraft
 
-![ link=KataDutch:Minecraft|left|100px](../files/Kata_banners_minecrafticon.png
+![ link=KataDutch:Minecraft|left|100px](../files/img/Kata_banners_minecrafticon.png
 " link=KataDutch:Minecraft|left|100px")
 [KataDutch:Minecraft](KataDutch_Minecraft.md)
 
@@ -113,7 +113,7 @@ Tinkercad
 
 ### Python
 
-![ link=KataDutch:Python|left|100px](../files/Images.png
+![ link=KataDutch:Python|left|100px](../files/img/Images.png
 " link=KataDutch:Python|left|100px") [KataDutch:Python](KataDutch:Python.md)
 
   - 
@@ -129,7 +129,7 @@ Tinkercad
 
 ### PHP
 
-![PHP\_Tutorials.png](../files/PHP_Tutorials.png "../files/PHP_Tutorials.png")
+![PHP\_Tutorials.png](../files/img/PHP_Tutorials.png "PHP_Tutorials.png")
 [KataDutch:PHP](KataDutch:PHP.md)
 
   - 
@@ -145,7 +145,7 @@ Tinkercad
 
 ### Lego Mindstorms
 
-![../files/lego.png](../files/lego.png "../files/lego.png") [KataDutch:Lego
+![lego.png](../files/img/lego.png "lego.png") [KataDutch:Lego
 Mindstorms](KataDutch:Lego.md)
 
   - 
@@ -162,7 +162,7 @@ Mindstroms
 
 ### Gamemaker
 
-![ link=KataDutch:Gamemaker|left|100px](../files/labicon2.png
+![ link=KataDutch:Gamemaker|left|100px](../files/img/labicon2.png
 " link=KataDutch:Gamemaker|left|100px")
 [KataDutch:Gamemaker](KataDutch:Gamemaker.md)
 
@@ -179,7 +179,7 @@ Mindstroms
 
 ### Arduino
 
-![Arduino\_Logo.png](../files/Arduino_Logo.png "../files/Arduino_Logo.png")
+![Arduino\_Logo.png](../files/img/Arduino_Logo.png "Arduino_Logo.png")
 [Arduino](KataDutch:Arduino.md)
 
   - 
@@ -200,7 +200,7 @@ omgevingen.
 
 ### MOBIEL
 
-![Arcade\_icon.png](../files/Arcade_icon.png "../files/Arcade_icon.png")
+![Arcade\_icon.png](../files/img/Arcade_icon.png "Arcade_icon.png")
 [Mobiel](KataDutch:Mobiel.md)
 
   - 
@@ -216,8 +216,8 @@ omgevingen.
 
 ### LUA
 
-![../files/Lua-logo-black-and-white.png](../files/Lua-logo-black-and-white.png
-"../files/Lua-logo-black-and-white.png") [Lua](KataDutch:Lua.md)
+![Lua-logo-black-and-white.png](../files/img/Lua-logo-black-and-white.png
+"Lua-logo-black-and-white.png") [Lua](KataDutch:Lua.md)
 
   - 
     
@@ -232,8 +232,8 @@ omgevingen.
 
 ### Processing
 
-![../files/Processing-logo-black-white.png](../files/Processing-logo-black-white.png
-"../files/Processing-logo-black-white.png") [Processing](KataDutch:Processing.md)
+![Processing-logo-black-white.png](../files/img/Processing-logo-black-white.png
+"Processing-logo-black-white.png") [Processing](KataDutch:Processing.md)
 
   - 
     
@@ -248,7 +248,7 @@ omgevingen.
 
 ### openScad
 
-![Openscad\_logo.png](../files/Openscad_logo.png "../files/Openscad_logo.png")
+![Openscad\_logo.png](../files/img/Openscad_logo.png "Openscad_logo.png")
 [openScad](KataDutch:openScad.md)
 
   - 

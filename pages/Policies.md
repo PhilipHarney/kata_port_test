@@ -4,7 +4,7 @@
 
 ### CoderDojo Logos and Brand Guidelines
 
-![../files/logobrand.png](../files/logobrand.png "../files/logobrand.png") [Download the CoderDojo
+![logobrand.png](../files/img/logobrand.png "logobrand.png") [Download the CoderDojo
 logo ](https://company-51033.frontify.com/d/E6KNDhunr9mR/coderdojo-style-guide-1460385526)
 
   - 
@@ -26,7 +26,7 @@ Dojo\!
 
 ![
 link=<https://drive.google.com/a/hwf.io/folderview?id=0B9k8EqhS6jvCYnZKNnVsOE9pZTA&usp=drive_web>
-](../files/Dojo_Promo_Materials.png
+](../files/img/Dojo_Promo_Materials.png
 " link=https://drive.google.com/a/hwf.io/folderview?id=0B9k8EqhS6jvCYnZKNnVsOE9pZTA&usp=drive_web ")
 [Click for example posters\! ](https://drive.google.com/a/hwf.io/folderview?id=0B9k8EqhS6jvCYnZKNnVsOE9pZTA&usp=drive_web)
 
@@ -46,7 +46,7 @@ locally.
 ### CoderDojo Leaflets and Posters
 
 ![
-link=<https://drive.google.com/a/hwf.io/folderview?id=0B9k8EqhS6jvCYnZKNnVsOE9pZTA&usp=drive_web#list>](../files/CoderDojo_Leaflets_.png
+link=<https://drive.google.com/a/hwf.io/folderview?id=0B9k8EqhS6jvCYnZKNnVsOE9pZTA&usp=drive_web#list>](../files/img/CoderDojo_Leaflets_.png
 " link=https://drive.google.com/a/hwf.io/folderview?id=0B9k8EqhS6jvCYnZKNnVsOE9pZTA&usp=drive_web#list")
 [Sample and template leaflets and posters](https://drive.google.com/a/hwf.io/folderview?id=0B9k8EqhS6jvCYnZKNnVsOE9pZTA&usp=drive_web#list)
 

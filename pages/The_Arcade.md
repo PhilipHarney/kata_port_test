@@ -8,7 +8,7 @@ code\!
 
 ## The Arcade
 
-![Arcade\_t.png](../files/Arcade_t.png "../files/Arcade_t.png")
+![Arcade\_t.png](../files/img/Arcade_t.png "Arcade_t.png")
 
   -   
     Here you will find links to games you can play while learning to
@@ -20,8 +20,8 @@ code\!
 
 ## Dojo Game
 
-![Kata\_banners\_dojogame.png](../files/Kata_banners_dojogame.png
-"../files/Kata_banners_dojogame.png")
+![Kata\_banners\_dojogame.png](../files/img/Kata_banners_dojogame.png
+"Kata_banners_dojogame.png")
 
   -   
     Here you will find how to build your very own
@@ -33,7 +33,7 @@ games\!
 
 ## CoderDojo Girls
 
-![../files/Coderdojogirls22.png](../files/Coderdojogirls22.png "../files/Coderdojogirls22.png")
+![Coderdojogirls22.png](../files/img/Coderdojogirls22.png "Coderdojogirls22.png")
 
   -   
     Here you can see some advice and tools specifically for encouraging

@@ -12,7 +12,7 @@ Windows: Notepad++ is free and open source
 <http://notepad-plus-plus.org/>
 
   -   
-    ![../files/Notepad.png](../files/Notepad.png "../files/Notepad.png")
+    ![Notepad.png](../files/img/Notepad.png "Notepad.png")
 
 Mac: Sublime Not open source but free for the first 80 days. Highly
 recommend by Mac Mentors
@@ -20,7 +20,7 @@ recommend by Mac Mentors
 <http://www.sublimetext.com/>
 
   -   
-    ![../files/Sublime-text.png](../files/Sublime-text.png "../files/Sublime-text.png")
+    ![Sublime-text.png](../files/img/Sublime-text.png "Sublime-text.png")
 
 ## Browser
 

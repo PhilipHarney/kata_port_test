@@ -1,4 +1,4 @@
-![centre](Twit.PNG "centre")
+![centre](../files/img/Twit.PNG "centre")
 
 ## Twitter
 
@@ -16,7 +16,7 @@ If you have a upcoming Dojo you can use \#DojoDate or if you have
 pictures of your Dojo in action please share with \#DojoPics and we will
 retweet\!
 
-![centre](../files/Screen_Shot_2014-11-28_at_17.19.20.png "centre")
+![centre](../files/img/Screen_Shot_2014-11-28_at_17.19.20.png "centre")
 
 ## \#DojoChat
 

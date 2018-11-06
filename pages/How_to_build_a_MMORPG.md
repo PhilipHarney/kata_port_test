@@ -24,7 +24,7 @@ mining, trading, energy generation and manufacture.
 
 It is built in php,javscript and mysql and uses the Joomla CMS to manage
 story lines, user regsitration, security and plugin framework . ![
-200px|left](../files/15_Map.jpg " 200px|left") The game is extendable by using
+200px|left](../files/img/15_Map.jpg " 200px|left") The game is extendable by using
 plugins. It is up to mentor and advanced students to build plugins that
 will allow each server evolve in it's own unique way, solving particular
 problems per server from pure gaming to questions on fuel use and the

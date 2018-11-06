@@ -10,20 +10,20 @@ To set up an account with Eventbrite you can go to
 
   - Select "Sign up" from the top right menu.
 
-![Eventbrite\_1.png](../files/Eventbrite_1.png "../files/Eventbrite_1.png")
+![Eventbrite\_1.png](../files/img/Eventbrite_1.png "Eventbrite_1.png")
 
   - Fill in your details in the fields provided.
 
-![Eventbrite\_2.png](../files/Eventbrite_2.png "../files/Eventbrite_2.png")
+![Eventbrite\_2.png](../files/img/Eventbrite_2.png "Eventbrite_2.png")
 
   - You are then given the option of creating an event straight away.
 
-![Eventbrite\_3.png](../files/Eventbrite_3.png "../files/Eventbrite_3.png")
+![Eventbrite\_3.png](../files/img/Eventbrite_3.png "Eventbrite_3.png")
 
   - From here, using the navigation bar, you can also access your
     Eventbrite Profile. Here you can enter your Dojo name and details.
 
-![Eventbrite\_4.png](../files/Eventbrite_4.png "../files/Eventbrite_4.png")
+![Eventbrite\_4.png](../files/img/Eventbrite_4.png "Eventbrite_4.png")
 
   - Once you have created an event you will then be able to list the
     event ID on your Dojo's [Zen](Zen.md) page. You can then

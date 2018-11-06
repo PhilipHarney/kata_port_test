@@ -61,7 +61,7 @@ bordo della finestra grafica:
 
 Una volta lanciato il programma produrrà questo risultato:
 
-![bitmap\_04.png](../files/bitmap_04.png "../files/bitmap_04.png")
+![bitmap\_04.png](../files/img/bitmap_04.png "bitmap_04.png")
 
 ## Miglioramenti
 

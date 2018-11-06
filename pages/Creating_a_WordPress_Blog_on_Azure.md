@@ -1,8 +1,8 @@
 ## Creating Creating a WordPress Blog on Azure
 
-![../files/Microsofticon.png](../files/Microsofticon.png "../files/Microsofticon.png")
-![Microsoft-azure\_800x600.png](../files/Microsoft-azure_800x600.png
-"../files/Microsoft-azure_800x600.png")
+![Microsofticon.png](../files/img/Microsofticon.png "Microsofticon.png")
+![Microsoft-azure\_800x600.png](../files/img/Microsoft-azure_800x600.png
+"Microsoft-azure_800x600.png")
 
 These Sushi cards have been created by Microsoft for the CoderDojo
 community to help young people learn to make a Wordpress Blog with

@@ -1,8 +1,8 @@
 ## Game Programming with Project Spark
 
-![../files/Microsofticon.png](../files/Microsofticon.png "../files/Microsofticon.png")
-![../files/Project-Spark-Logo-400x225.png](../files/Project-Spark-Logo-400x225.png
-"../files/Project-Spark-Logo-400x225.png")
+![Microsofticon.png](../files/img/Microsofticon.png "Microsofticon.png")
+![Project-Spark-Logo-400x225.png](../files/img/Project-Spark-Logo-400x225.png
+"Project-Spark-Logo-400x225.png")
 
 These Sushi cards have been created by Microsoft for the CoderDojo
 community to help young people learn game programming with Project
